@@ -143,9 +143,14 @@ def fetch_and_parse(url_info):
         return []
 
 def main():
-    # Ana menü klasörünü oluştur
-    main_menu_path = 'ana_menu'
-    os.makedirs(main_menu_path, exist_ok=True)
+    # Çıktı klasörlerini oluştur
+    playsport_path = 'playsport'
+    ana_menu_path = os.path.join(playsport_path, 'ana_menu')
+    by_league_path = os.path.join(playsport_path, 'by_league')
+    
+    os.makedirs(playsport_path, exist_ok=True)
+    os.makedirs(ana_menu_path, exist_ok=True)
+    os.makedirs(by_league_path, exist_ok=True)
     
     # Tüm lig URL'lerini hazırla
     all_urls_to_fetch = []
@@ -179,19 +184,38 @@ def main():
                     grouped_results[group_title] = []
                 grouped_results[group_title].append((line1, line2))
     
+    # Lig/lisans dosyalarını oluştur
+    for group_title, lines in sorted(grouped_results.items()):
+        safe_folder_name = group_title.replace('/', '-').replace(' ', '_')
+        folder_path = os.path.join(by_league_path, safe_folder_name)
+        os.makedirs(folder_path, exist_ok=True)
+        
+        file_path = os.path.join(folder_path, f"{safe_folder_name}.m3u")
+        
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write("#EXTM3U\n\n")
+            for line1, line2 in lines:
+                f.write(line1)
+                f.write(line2)
+    
     # Ana menüye METV dosyası oluştur
     try:
         metv_content = create_metv_file(grouped_results)
-        metv_path = os.path.join(main_menu_path, 'tum_mac_metv.metv')
+        metv_path = os.path.join(ana_menu_path, 'tum_mac_metv.metv')
         with open(metv_path, 'w', encoding='utf-8') as f:
             f.write(metv_content)
-        
-        print(f"\nİşlem tamamlandı! '{main_menu_path}' klasöründe:")
+            
+        print(f"\nİşlem tamamlandı! '{playsport_path}' klasöründe:")
+        print(f"- {len(grouped_results)} lig/sezon M3U dosyası")
         print(f"- 1 adet tüm maçları içeren METV dosyası ({metv_path})")
-        print("\nDosya içeriği:")
-        print("- Tüm ligler ve sezonlar")
-        print("- Her maç için başlık ve video URL'si")
-        print("- METV formatında düzenlenmiş")
+        print("\nDosya yapıları:")
+        print("- playsport/")
+        print("  ├── ana_menu/")
+        print("  │   └── tum_mac_metv.metv")
+        print("  └── by_league/")
+        print("      ├── Süper_Lig_2010_2011/")
+        print("      ├── Süper_Lig_2011_2012/")
+        print("      ...")  
         
     except Exception as e:
         print(f"Hata oluştu: {e}")
