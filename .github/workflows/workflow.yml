@@ -6,7 +6,7 @@ on:
     branches: [ "main" ]
   workflow_dispatch:
 jobs:
-  mac_ozetleri_cek:  # Geçersiz 'ç' karakteri kaldırıldı
+  mac_ozetleri_cek:
     runs-on: ubuntu-latest
     
     steps:
@@ -18,23 +18,23 @@ jobs:
         with:
           python-version: '3.11'
           
-      - name: Bağımlılıkları Yükleme
+      - name: Bağımlılıkların Kurulması
         run: |
           python -m pip install --upgrade pip
           pip install requests
           
-      - name: Çıktı Klasörü Oluşturma
+      - name: Çıktı Klasörünün Oluşturulması
         run: mkdir -p playsport
         
-      - name: Çekiciyi Çalıştırma
+      - name: Çekicinin Çalıştırılması
         run: python scraper.py
         
-      - name: Çıktı Dosyalarını Doğrulama
+      - name: Çıktı Dosyalarının Doğrulanması
         run: |
           ls -la playsport/
           find playsport/ -name "*.m3u" | wc -l
           
-      - name: Değişiklikleri Kaydetme
+      - name: Değişikliklerin Kaydedilmesi
         run: |
           rm -rf metv || true
           mv playsport metv
