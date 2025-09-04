@@ -1,5 +1,5 @@
 # GitHub Actions İş Akışı Adı
-name: özet
+name: evet
 
 # Bu iş akışının ne zaman çalışacağını belirleyen tetikleyiciler
 on:
