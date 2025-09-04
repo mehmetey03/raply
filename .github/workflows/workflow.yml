@@ -6,7 +6,7 @@ on:
     branches: [ "main" ]
   workflow_dispatch:
 jobs:
-  maç_özetleri_çek:
+  mac_ozetleri_cek:  # Geçersiz 'ç' karakteri kaldırıldı
     runs-on: ubuntu-latest
     
     steps:
