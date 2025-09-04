@@ -50,7 +50,7 @@ def create_metv_file(data):
     return metv_content
 
 # --- DİNAMİK VERİ ÇEKME FONKSİYONU ---
-def get_birinci_lig_urls_dynamik():
+def get_birinci_lig_urls_dinamik():
     """BeIN SPORTS TFF 1. Lig sayfasından URL'leri çeker"""
     page_url = "https://www.beinsports.com.tr/mac-ozetleri-goller/tff-1-lig"
     urls_to_fetch = []
@@ -180,17 +180,22 @@ def main():
                 grouped_results[group_title].append((line1, line2))
     
     # Ana menüye METV dosyası oluştur
-    metv_content = create_metv_file(grouped_results)
-    metv_path = os.path.join(main_menu_path, 'tum_mac_metv.metv')
-    with open(metv_path, 'w', encoding='utf-8') as f:
-        f.write(metv_content)
-    
-    print(f"\nİşlem tamamlandı! '{main_menu_path}' klasöründe:")
-    print(f"- 1 adet tüm maçları içeren METV dosyası ({metv_path})")
-    print("\nDosya içeriği:")
-    print("- Tüm ligler ve sezonlar")
-    print("- Her maç için başlık ve video URL'si")
-    print("- METV formatında düzenlenmiş")
+    try:
+        metv_content = create_metv_file(grouped_results)
+        metv_path = os.path.join(main_menu_path, 'tum_mac_metv.metv')
+        with open(metv_path, 'w', encoding='utf-8') as f:
+            f.write(metv_content)
+        
+        print(f"\nİşlem tamamlandı! '{main_menu_path}' klasöründe:")
+        print(f"- 1 adet tüm maçları içeren METV dosyası ({metv_path})")
+        print("\nDosya içeriği:")
+        print("- Tüm ligler ve sezonlar")
+        print("- Her maç için başlık ve video URL'si")
+        print("- METV formatında düzenlenmiş")
+        
+    except Exception as e:
+        print(f"Hata oluştu: {e}")
+        print("METV dosyası oluşturulamadı")
 
 if __name__ == "__main__":
     main()
