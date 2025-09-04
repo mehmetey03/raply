@@ -28,29 +28,8 @@ super_lig_st = {
     3438: 0, 3580: 0, 3746: 0, 3853: 0,
 }
 
-# --- METV DOSYASI OLUŞTURMA FONKSİYONU ---
-def create_metv_file(data):
-    """Metv formatında dosya oluşturur"""
-    metv_content = "#METV\n"
-    
-    for group_title, lines in data.items():
-        # Başlık bilgisi
-        metv_content += f"[{group_title}]\n"
-        
-        for line1, line2 in lines:
-            # M3U satırlarını metv formatına çevir
-            title_line = line1.split(',', 1)[1].strip().rstrip('\n')
-            url_line = line2.strip()
-            
-            # Metv formatına uygun satır oluştur
-            metv_content += f"title={title_line}\n"
-            metv_content += f"url={url_line}\n"
-            metv_content += "\n"
-    
-    return metv_content
-
 # --- DİNAMİK VERİ ÇEKME FONKSİYONU ---
-def get_birinci_lig_urls_dinamik():
+def get_birinci_lig_urls_dynamically():
     """BeIN SPORTS TFF 1. Lig sayfasından URL'leri çeker"""
     page_url = "https://www.beinsports.com.tr/mac-ozetleri-goller/tff-1-lig"
     urls_to_fetch = []
@@ -105,7 +84,7 @@ def get_birinci_lig_urls_dinamik():
 
 # --- ANA KOD ---
 def fetch_and_parse(url_info):
-    """Verilen URL'den veriyi çeker ve M3U/METV formatına dönüştürür."""
+    """Verilen URL'den veriyi çeker ve M3U formatına dönüştürür."""
     url, group_title = url_info
     try:
         print(f"Veri çekiliyor: {url}")
@@ -143,14 +122,8 @@ def fetch_and_parse(url_info):
         return []
 
 def main():
-    # Çıktı klasörlerini oluştur
-    playsport_path = 'playsport'
-    ana_menu_path = os.path.join(playsport_path, 'ana_menu')
-    by_league_path = os.path.join(playsport_path, 'by_league')
-    
-    os.makedirs(playsport_path, exist_ok=True)
-    os.makedirs(ana_menu_path, exist_ok=True)
-    os.makedirs(by_league_path, exist_ok=True)
+    output_folder = 'playsport'
+    os.makedirs(output_folder, exist_ok=True)
     
     # Tüm lig URL'lerini hazırla
     all_urls_to_fetch = []
@@ -166,7 +139,7 @@ def main():
             all_urls_to_fetch.append((url, group_title))
     
     # Trendyol 1. Lig URL'leri (dinamik)
-    birinci_lig_urls = get_birinci_lig_urls_dinamik()
+    birinci_lig_urls = get_birinci_lig_urls_dynamically()
     all_urls_to_fetch.extend(birinci_lig_urls)
     
     print(f"\nToplam {len(all_urls_to_fetch)} URL üzerinde işlem yapılacak")
@@ -184,10 +157,11 @@ def main():
                     grouped_results[group_title] = []
                 grouped_results[group_title].append((line1, line2))
     
-    # Lig/lisans dosyalarını oluştur
+    # Dosyalara yazma
+    all_lines_combined = []
     for group_title, lines in sorted(grouped_results.items()):
         safe_folder_name = group_title.replace('/', '-').replace(' ', '_')
-        folder_path = os.path.join(by_league_path, safe_folder_name)
+        folder_path = os.path.join(output_folder, safe_folder_name)
         os.makedirs(folder_path, exist_ok=True)
         
         file_path = os.path.join(folder_path, f"{safe_folder_name}.m3u")
@@ -197,32 +171,17 @@ def main():
             for line1, line2 in lines:
                 f.write(line1)
                 f.write(line2)
+                all_lines_combined.append((line1, line2))
     
-    # Ana menüye METV dosyası oluştur
-    try:
-        metv_content = create_metv_file(grouped_results)
-        metv_path = os.path.join(ana_menu_path, 'tum_mac_metv.metv')
-        with open(metv_path, 'w', encoding='utf-8') as f:
-            f.write(metv_content)
-            
-        print(f"\nİşlem tamamlandı! '{playsport_path}' klasöründe:")
-        print(f"- {len(grouped_results)} lig/sezon M3U dosyası")
-        print(f"- 1 adet tüm maçları içeren METV dosyası ({metv_path})")
-        print("\nDosya yapıları:")
-        print("- playsport/")
-        print("  ├── ana_menu/")
-        print("  │   └── tum_mac_metv.metv")
-        print("  └── by_league/")
-        print("      ├── Süper_Lig_2010_2011/")
-        print("      │   └── Süper_Lig_2010_2011.m3u")
-        print("      ├── Süper_Lig_2011_2012/")
-        print("      │   └── Süper_Lig_2011_2012.m3u")
-        print("      └── Trendyol_1.Lig_2023_2024/")
-        print("          └── Trendyol_1.Lig_2023_2024.m3u")
-        
-    except Exception as e:
-        print(f"Hata oluştu: {e}")
-        print("METV dosyası oluşturulamadı")
+    # Master M3U dosyası
+    all_m3u_path = os.path.join(output_folder, 'all_leagues.m3u')
+    with open(all_m3u_path, 'w', encoding='utf-8') as f:
+        f.write("#EXTM3U\n\n")
+        for line1, line2 in all_lines_combined:
+            f.write(line1)
+            f.write(line2)
+    
+    print(f"\nİşlem tamamlandı! '{output_folder}' klasöründe {len(grouped_results)} lig/sezon dosyası oluşturuldu")
 
 if __name__ == "__main__":
     main()
