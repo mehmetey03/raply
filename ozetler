@@ -191,4 +191,4 @@ with open(all_m3u_path, 'w', encoding='utf-8') as f:
 
 print(f"\nİşlem tamamlandı! '{output_folder}' klasörü içinde her lig/sezon için klasörler, M3U dosyaları ve 'all_leagues.m3u' başarıyla oluşturuldu.")
 
-# Sakultah tarafından yapılmıştır iyi kullanımlar :)
+
