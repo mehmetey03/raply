@@ -30,11 +30,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
           
-      - name: Create Output Directories
+      - name: Create Output Structure
         run: |
           mkdir -p playsport/ana_menu
           mkdir -p playsport/by_league
-      
+          
       - name: Run Scraper
         env:
           OUTPUT_FORMAT: ${{ inputs.output_format }}
