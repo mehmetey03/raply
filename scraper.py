@@ -214,8 +214,11 @@ def main():
         print("  │   └── tum_mac_metv.metv")
         print("  └── by_league/")
         print("      ├── Süper_Lig_2010_2011/")
+        print("      │   └── Süper_Lig_2010_2011.m3u")
         print("      ├── Süper_Lig_2011_2012/")
-        print("      ...")  
+        print("      │   └── Süper_Lig_2011_2012.m3u")
+        print("      └── Trendyol_1.Lig_2023_2024/")
+        print("          └── Trendyol_1.Lig_2023_2024.m3u")
         
     except Exception as e:
         print(f"Hata oluştu: {e}")
