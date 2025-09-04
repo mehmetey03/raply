@@ -1,10 +1,8 @@
-name: Turkish Football Highlights Scraper
+name: Football Highlights Scraper
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight UTC
   workflow_dispatch:
     inputs:
       output_format:
@@ -43,9 +41,10 @@ jobs:
           
       - name: Verify Output Files
         run: |
-          ls -la playsport/
-          find playsport/ -name "*.m3u" | wc -l
-          find playsport/ -name "*.metv" | wc -l
+          echo "Created files:"
+          find playsport/ -type f
+          echo "Total M3U files:" $(find playsport/ -name "*.m3u" | wc -l)
+          echo "Total METV files:" $(find playsport/ -name "*.metv" | wc -l)
           
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
