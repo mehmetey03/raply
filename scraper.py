@@ -28,6 +28,27 @@ super_lig_st = {
     3438: 0, 3580: 0, 3746: 0, 3853: 0,
 }
 
+# --- METV DOSYASI OLUŞTURMA FONKSİYONU ---
+def create_metv_file(data):
+    """Metv formatında dosya oluşturur"""
+    metv_content = ""
+    
+    for group_title, lines in data.items():
+        # Başlık bilgisi
+        metv_content += f"[{group_title}]\n"
+        
+        for line1, line2 in lines:
+            # M3U satırlarını metv formatına çevir
+            title_line = line1.split(',', 1)[1].strip().rstrip('\n')
+            url_line = line2.strip()
+            
+            # Metv formatına uygun satır oluştur
+            metv_content += f"title={title_line}\n"
+            metv_content += f"url={url_line}\n"
+            metv_content += "\n"
+    
+    return metv_content
+
 # --- DİNAMİK VERİ ÇEKME FONKSİYONU ---
 def get_birinci_lig_urls_dynamically():
     """BeIN SPORTS TFF 1. Lig sayfasından URL'leri çeker"""
@@ -84,7 +105,7 @@ def get_birinci_lig_urls_dynamically():
 
 # --- ANA KOD ---
 def fetch_and_parse(url_info):
-    """Verilen URL'den veriyi çeker ve M3U formatına dönüştürür."""
+    """Verilen URL'den veriyi çeker ve M3U/METV formatına dönüştürür."""
     url, group_title = url_info
     try:
         print(f"Veri çekiliyor: {url}")
@@ -181,43 +202,16 @@ def main():
             f.write(line1)
             f.write(line2)
     
-    print(f"\nİşlem tamamlandı! '{output_folder}' klasöründe {len(grouped_results)} lig/sezon dosyası oluşturuldu")
+    # METV dosyası oluştur
+    metv_content = create_metv_file(grouped_results)
+    metv_path = os.path.join(output_folder, 'tum_mac_metv.metv')
+    with open(metv_path, 'w', encoding='utf-8') as f:
+        f.write(metv_content)
     
-    # Otomatik olarak artifact oluştur
-    create_artifact()
-
-def create_artifact():
-    """Otomatik olarak artifact oluşturur ve günceller"""
-    try:
-        import shutil
-        import tempfile
-        import hashlib
-        
-        # Temp dizini oluştur
-        temp_dir = tempfile.mkdtemp()
-        
-        # Mevcut playsport dizinini kopyala
-        shutil.copytree('playsport', os.path.join(temp_dir, 'playsport'))
-        
-        # Hash hesapla
-        hash_obj = hashlib.sha256()
-        with open(os.path.join(temp_dir, 'playsport'), 'rb') as f:
-            while chunk := f.read(4096):
-                hash_obj.update(chunk)
-        digest = hash_obj.hexdigest()
-        
-        # Artifact'i GitHub Actions'a yükle
-        print(f"Artifact oluşturuluyor... (Hash: {digest})")
-        # Burada gerçek GitHub Actions API çağrısı yapılabilir
-        # Ancak bu basit versiyonda sadece bilgi gösteriyoruz
-        
-        # Gerçek uygulamada burada GitHub Actions API çağrısı yapılmalıdır
-        # Örneğin: requests.post('https://api.github.com/repos/{owner}/{repo}/actions/artifacts', ...)
-        
-        print("Artifact başarıyla oluşturuldu!")
-        
-    except Exception as e:
-        print(f"Artifact oluşturulurken hata oluştu: {e}")
+    print(f"\nİşlem tamamlandı! '{output_folder}' klasöründe:")
+    print(f"- {len(grouped_results)} lig/sezon M3U dosyası")
+    print(f"- 1 adet tüm maçları içeren METV dosyası ({metv_path})")
+    print(f"- 1 adet tüm ligler M3U dosyası")
 
 if __name__ == "__main__":
     main()
