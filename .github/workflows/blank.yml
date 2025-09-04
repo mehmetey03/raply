@@ -1,43 +1,55 @@
-name: Turkish Football Highlights Scraper
+# GitHub Actions İş Akışı Adı
+name: özet
 
+# Bu iş akışının ne zaman çalışacağını belirleyen tetikleyiciler
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  # Zamanlanmış görev: Her gün 00:00 UTC'de çalışır (cron sözdizimi)
+  schedule:
+    - cron: '0 0 * * *'
+  # Manuel tetikleme: GitHub Actions sekmesinden elle çalıştırmayı sağlar
   workflow_dispatch:
 
+# İş akışında çalıştırılacak görevler
 jobs:
-  scrape_highlights:
+  # "build" adında bir görev tanımlıyoruz
+  build:
+    # Görevin çalışacağı sanal makine ortamı
     runs-on: ubuntu-latest
-    
+
+    # Görevin adımları
     steps:
-      - name: Checkout Repository
+      # 1. Adım: Depodaki kodları sanal makineye indirir
+      - name: Depoyu Klonla
         uses: actions/checkout@v4
-        
-      - name: Set up Python
+
+      # 2. Adım: Belirtilen Python sürümünü kurar
+      - name: Python'u Kur
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
-          
-      - name: Install Dependencies
+          python-version: '3.10' # Python sürümünü projenize göre değiştirebilirsiniz
+
+      # 3. Adım: Gerekli Python kütüphanelerini yükler
+      - name: Bağımlılıkları Yükle
         run: |
           python -m pip install --upgrade pip
-          pip install requests
-          
-      - name: Create Output Directory
-        run: mkdir -p playsport
-        
-      - name: Run Scraper
-        run: python scraper.py
-        
-      - name: Verify Output Files
+          pip install -r requirements1.txt
+
+      # 4. Adım: Ana Python betiğini çalıştırır
+      - name: Betiği Çalıştır
+        run: python ozetler.py # Betiğinizin adını doğru yazdığınızdan emin olun
+
+      # 5. Adım: Oluşturulan dosyaları depoya geri yükler (commit ve push)
+      - name: Değişiklikleri Depoya Yükle
         run: |
-          ls -la playsport/
-          find playsport/ -name "*.m3u" | wc -l
+          # Git için kullanıcı adı ve e-posta yapılandırması
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v4  # Updated to v4
-        with:
-          name: football-highlights
-          path: playsport/
+          # Değişiklikleri sahneye ekle
+          git add metv/
+          
+          # Değişiklik olup olmadığını kontrol et ve varsa commit at
+          git diff --staged --quiet || git commit -m "[BOT] M3U Dosyaları Güncellendi"
+          
+          # Değişiklikleri ana dala (main) gönder
+          git push
