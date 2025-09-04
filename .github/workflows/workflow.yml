@@ -6,6 +6,11 @@ on:
   pull_request:
     branches: [ "main" ]
   workflow_dispatch:
+    inputs:
+      output_format:
+        description: Output format (m3u or metv)
+        required: false
+        default: m3u
 
 jobs:
   scrape_highlights:
@@ -25,19 +30,25 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
           
-      - name: Create Output Directory
-        run: mkdir -p playsport
-        
+      - name: Create Output Directories
+        run: |
+          mkdir -p playsport/ana_menu
+          mkdir -p playsport/by_league
+      
       - name: Run Scraper
-        run: python scraper.py
-        
+        env:
+          OUTPUT_FORMAT: ${{ inputs.output_format }}
+        run: |
+          python scraper.py
+          
       - name: Verify Output Files
         run: |
           ls -la playsport/
           find playsport/ -name "*.m3u" | wc -l
+          find playsport/ -name "*.metv" | wc -l
           
       - name: Upload Artifacts
-        uses: actions/upload-artifact@v4  # Updated to v4
+        uses: actions/upload-artifact@v4
         with:
           name: football-highlights
           path: playsport/
