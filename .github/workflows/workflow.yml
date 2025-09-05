@@ -2,8 +2,8 @@ name: Scrape BeIN Highlights
 
 on:
   schedule:
-    - cron: "*/15 * * * *"  # 15 dakikada bir çalışır
-  workflow_dispatch:  # manuel başlatmak için
+    - cron: "*/15 * * * *"  # 15 dakikada bir
+  workflow_dispatch:
 
 jobs:
   scrape_highlights:
@@ -23,12 +23,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run scraper
+      - name: Run metv
         run: |
-          python metv.py  # kodun adı neyse onu yaz
+          python metv.py  # senin Python kodun
 
       - name: Upload metv folder as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4   # <<< v4 sürümü
         with:
           name: metv
           path: metv/
