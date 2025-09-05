@@ -87,7 +87,7 @@ def fetch_and_parse(url_info):
         return []
 
 def main():
-    output_folder = 'playsport'
+    output_folder = 'metv'  # <-- Burayı değiştiriyoruz
     os.makedirs(output_folder, exist_ok=True)
     all_urls = []
 
