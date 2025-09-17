@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1493359" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493359.jpg" group-title="Süper Lig 2025/2026",Mısırlı.com.tr Fatih Karagümrük 0-2 Rams Başakşehir
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_1_kara_basak_1h_17eylul_ip&secure=1
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_1_kkara_basak_1h_17eylul_ip&secure=1
 #EXTINF:-1 tvg-id="1493361" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493361.jpg" group-title="Süper Lig 2025/2026",Fenerbahçe 2-2 Corendon Alanyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_1_fb_ala_1h_17eylul_ip&secure=1
 #EXTINF:-1 tvg-id="1493366" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493366.jpg" group-title="Süper Lig 2025/2026",Trabzonspor 1-0 Kocaelispor
