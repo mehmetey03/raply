@@ -9118,3 +9118,5 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_6_genc_eyup_6h_20eylul_ip&secure=1
 #EXTINF:-1 tvg-id="1493412" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493412.jpg" group-title="Süper Lig 2025/2026",Göztepe 3-0 Beşiktaş
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_6_goz_bjk_6h_19eyl_ip&secure=1
+#EXTINF:-1 tvg-id="1493419" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493419.jpg" group-title="Süper Lig 2025/2026",Corendon Alanyaspor 0-1 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_7_ala_gs_7h_26eyl_ip&secure=1
