@@ -486,6 +486,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_27_karabuk_antep&secure=1
 #EXTINF:-1 tvg-id="19764" tvg-logo="https://media01.tr.beinsports.com/img/highlights/629.jpg" group-title="Süper Lig 2010/2011",Özbelsan Sivasspor 1-0 Beşiktaş
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_27_sivas_bjk&secure=1
+#EXTINF:-1 tvg-id="27595" tvg-logo="https://media02.tr.beinsports.com/img/highlights/683.jpg" group-title="Süper Lig 2010/2011",Kasımpaşa 0-1 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_28_pasa_bjk&secure=1
+#EXTINF:-1 tvg-id="1032722" tvg-logo="https://media03.tr.beinsports.com/img/highlights/672.jpg" group-title="Süper Lig 2010/2011",Galatasaray 0-1 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_28_gsaray_trabzon&secure=1
+#EXTINF:-1 tvg-id="1035000" tvg-logo="https://media01.tr.beinsports.com/img/highlights/669.jpg" group-title="Süper Lig 2010/2011",Gençlerbirliği 4-1 Zecorner Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_28_gb_kay_ozet&secure=1
+#EXTINF:-1 tvg-id="1032719" tvg-logo="https://media03.tr.beinsports.com/img/highlights/668.jpg" group-title="Süper Lig 2010/2011",Gaziantepspor 3-2 MKE Ankaragücü
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_28_antep_agucu&secure=1
+#EXTINF:-1 tvg-id="23193" tvg-logo="https://media01.tr.beinsports.com/img/highlights/667.jpg" group-title="Süper Lig 2010/2011",Rams Başakşehir 1-2 Özbelsan Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_28_ibb_sivas&secure=1
+#EXTINF:-1 tvg-id="1032724" tvg-logo="https://media02.tr.beinsports.com/img/highlights/666.jpg" group-title="Süper Lig 2010/2011",Eskişehirspor 1-3 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_28_esk_fb&secure=1
+#EXTINF:-1 tvg-id="1032723" tvg-logo="https://media01.tr.beinsports.com/img/highlights/659.jpg" group-title="Süper Lig 2010/2011",Tümosan Konyaspor 0-0 GM Manisaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_28_konya_manisa&secure=1
+#EXTINF:-1 tvg-id="1034999" tvg-logo="https://media03.tr.beinsports.com/img/highlights/658.jpg" group-title="Süper Lig 2010/2011",Bucaspor 2-1 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_28_buca_karabuk&secure=1
+#EXTINF:-1 tvg-id="24605" tvg-logo="https://media03.tr.beinsports.com/img/highlights/656.jpg" group-title="Süper Lig 2010/2011",Bursaspor 2-3 Hesap.com Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_28_bur_ant&secure=1
 #EXTINF:-1 tvg-id="1032713" tvg-logo="https://media03.tr.beinsports.com/img/highlights/719.jpg" group-title="Süper Lig 2010/2011",GM Manisaspor 2-3 Galatasaray
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_29_man_gs&secure=1
 #EXTINF:-1 tvg-id="1032717" tvg-logo="https://media01.tr.beinsports.com/img/highlights/706.jpg" group-title="Süper Lig 2010/2011",Hesap.com Antalyaspor 2-2 Eskişehirspor
