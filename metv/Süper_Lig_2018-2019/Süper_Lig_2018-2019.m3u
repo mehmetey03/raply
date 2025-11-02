@@ -90,24 +90,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_5_ank_ak_15eylul&secure=1
 #EXTINF:-1 tvg-id="5995" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111325920.jpg" group-title="Süper Lig 2018/2019",Galatasaray 4-1 Kasımpaşa
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_5_gs_pasa_14eylul&secure=1
-#EXTINF:-1 tvg-id="6085" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111325934.jpg" group-title="Süper Lig 2018/2019",Fenerbahçe 1-1 Beşiktaş
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_6_fb_bjk_24eylul&secure=1
-#EXTINF:-1 tvg-id="6071" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111325932.jpg" group-title="Süper Lig 2018/2019",Akhisarspor 3-0 Galatasaray
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_6_ak_gs_23eylul&secure=1
-#EXTINF:-1 tvg-id="6076" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111325930.jpg" group-title="Süper Lig 2018/2019",Hesap.com Antalyaspor 2-1 Özbelsan Sivasspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_6_ant_svs_23eylul&secure=1
-#EXTINF:-1 tvg-id="6082" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111325927.jpg" group-title="Süper Lig 2018/2019",Kasımpaşa 1-2 Corendon Alanyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_6_pasa_ala_23eylul&secure=1
-#EXTINF:-1 tvg-id="6062" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111325928.jpg" group-title="Süper Lig 2018/2019",Trabzonspor 1-2 Göztepe
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_6_ts_goz_22eylul&secure=1
-#EXTINF:-1 tvg-id="6058" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111325933.jpg" group-title="Süper Lig 2018/2019",Zecorner Kayserispor 0-2 Tümosan Konyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_6_kay_kon_22eylul&secure=1
-#EXTINF:-1 tvg-id="6066" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111325929.jpg" group-title="Süper Lig 2018/2019",Fitmens Gömlek Yeni Malatyaspor 1-0 Çaykur Rizespor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_6_mal_rize_22eylul&secure=1
-#EXTINF:-1 tvg-id="6045" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111325931.jpg" group-title="Süper Lig 2018/2019",Erzurumspor FK 0-1 MKE Ankaragücü
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_6_erz_ank_21eylul&secure=1
-#EXTINF:-1 tvg-id="6051" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111325935.jpg" group-title="Süper Lig 2018/2019",Bursaspor 0-0 Rams Başakşehir
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_6_bur_bas_21eylul&secure=1
 #EXTINF:-1 tvg-id="6128" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111325936.jpg" group-title="Süper Lig 2018/2019",MKE Ankaragücü 0-1 Hesap.com Antalyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_7_ank_ant_1ekim&secure=1
 #EXTINF:-1 tvg-id="6133" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111325940.jpg" group-title="Süper Lig 2018/2019",Rams Başakşehir 1-1 Fitmens Gömlek Yeni Malatyaspor
@@ -198,24 +180,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_11_pasa_ant_3kasim&secure=1
 #EXTINF:-1 tvg-id="6205" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111325980.jpg" group-title="Süper Lig 2018/2019",Galatasaray 2-2 Fenerbahçe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_11_gs_fb_2kasim&secure=1
-#EXTINF:-1 tvg-id="6259" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111325981.png" group-title="Süper Lig 2018/2019",Beşiktaş 1-2 Özbelsan Sivasspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_12_bjk_svs_11kasim&secure=1
-#EXTINF:-1 tvg-id="6256" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111325985.png" group-title="Süper Lig 2018/2019",Hesap.com Antalyaspor 1-2 Akhisarspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_12_ant_ak_11kasim&secure=1
-#EXTINF:-1 tvg-id="6267" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111325989.jpg" group-title="Süper Lig 2018/2019",Fenerbahçe 2-0 Corendon Alanyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_12_fb_ala_11kasim&secure=1
-#EXTINF:-1 tvg-id="6263" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111325983.jpg" group-title="Süper Lig 2018/2019",Bursaspor 1-2 Kasımpaşa
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_12_bur_pasa_11kasim&secure=1
-#EXTINF:-1 tvg-id="6244" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111325982.jpg" group-title="Süper Lig 2018/2019",Zecorner Kayserispor 0-3 Galatasaray
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_12_kay_gs_10kasim&secure=1
-#EXTINF:-1 tvg-id="6252" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111325987.jpg" group-title="Süper Lig 2018/2019",Çaykur Rizespor 1-2 Rams Başakşehir
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_12_rize_bas_10kasim&secure=1
-#EXTINF:-1 tvg-id="6240" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111325986.jpg" group-title="Süper Lig 2018/2019",Erzurumspor FK 2-1 Göztepe
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_12_erz_goz_10kasim&secure=1
-#EXTINF:-1 tvg-id="6248" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111325988.jpg" group-title="Süper Lig 2018/2019",Tümosan Konyaspor 2-0 MKE Ankaragücü
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_12_kon_ank_10kasim&secure=1
-#EXTINF:-1 tvg-id="6237" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111325984.jpg" group-title="Süper Lig 2018/2019",Fitmens Gömlek Yeni Malatyaspor 5-0 Trabzonspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_12_mal_ts_9kasim&secure=1
 #EXTINF:-1 tvg-id="6309" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111325998.jpg" group-title="Süper Lig 2018/2019",Göztepe 0-2 Rams Başakşehir
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_13_goz_bas_26kasim&secure=1
 #EXTINF:-1 tvg-id="6294" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111325996.jpg" group-title="Süper Lig 2018/2019",Kasımpaşa 3-0 Fitmens Gömlek Yeni Malatyaspor
@@ -234,24 +198,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_13_erz_ant_24kasim&secure=1
 #EXTINF:-1 tvg-id="6272" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111325997.jpg" group-title="Süper Lig 2018/2019",Galatasaray 1-1 Tümosan Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_13_gs_kon_23kasim&secure=1
-#EXTINF:-1 tvg-id="6340" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326007.jpg" group-title="Süper Lig 2018/2019",Fenerbahçe 2-2 Kasımpaşa
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_14_fb_pasa_3aralik&secure=1
-#EXTINF:-1 tvg-id="6343" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326002.jpg" group-title="Süper Lig 2018/2019",Fitmens Gömlek Yeni Malatyaspor 1-1 Akhisarspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_14_mal_ak_3aralik&secure=1
-#EXTINF:-1 tvg-id="6333" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326004.jpg" group-title="Süper Lig 2018/2019",Beşiktaş 1-0 Galatasaray
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_14_bjk_gs_3aralik&secure=1
-#EXTINF:-1 tvg-id="6336" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326001.jpg" group-title="Süper Lig 2018/2019",Bursaspor 2-1 Erzurumspor FK
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_14_bur_erz_2aralik&secure=1
-#EXTINF:-1 tvg-id="6329" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326006.jpg" group-title="Süper Lig 2018/2019",Zecorner Kayserispor 0-2 Trabzonspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_14_kay_ts_1aralik&secure=1
-#EXTINF:-1 tvg-id="6322" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326003.jpg" group-title="Süper Lig 2018/2019",Hesap.com Antalyaspor 1-0 Göztepe
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_14_ant_goz_1aralik&secure=1
-#EXTINF:-1 tvg-id="6325" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111325999.jpg" group-title="Süper Lig 2018/2019",Rams Başakşehir 0-1 Özbelsan Sivasspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_14_bas_svs_1aralik&secure=1
-#EXTINF:-1 tvg-id="6314" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326005.jpg" group-title="Süper Lig 2018/2019",Tümosan Konyaspor 2-0 Corendon Alanyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_14_kon_ala_30kasim&secure=1
-#EXTINF:-1 tvg-id="6317" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326000.jpg" group-title="Süper Lig 2018/2019",Çaykur Rizespor 1-1 MKE Ankaragücü
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_14_rize_ank_30kasim&secure=1
 #EXTINF:-1 tvg-id="6380" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326008.jpg" group-title="Süper Lig 2018/2019",MKE Ankaragücü 0-1 Rams Başakşehir
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_15_ank_bas_10aralik&secure=1
 #EXTINF:-1 tvg-id="6385" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326013.jpg" group-title="Süper Lig 2018/2019",Kasımpaşa 0-3 Zecorner Kayserispor
@@ -342,24 +288,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_19_kay_bur_26ocak&secure=1
 #EXTINF:-1 tvg-id="6542" tvg-logo="https://media03.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2018/2019",Beşiktaş 1-1 Erzurumspor FK
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_19_bjk_erz_25ocak&secure=1
-#EXTINF:-1 tvg-id="6614" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326061.jpg" group-title="Süper Lig 2018/2019",Bursaspor 0-0 Tümosan Konyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_20_bur_kon_4subat&secure=1
-#EXTINF:-1 tvg-id="6602" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326055.jpg" group-title="Süper Lig 2018/2019",Hesap.com Antalyaspor 2-6 Beşiktaş
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_20_ant_bjk_3subat&secure=1
-#EXTINF:-1 tvg-id="6590" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326057.jpg" group-title="Süper Lig 2018/2019",Akhisarspor 0-3 Rams Başakşehir
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_20_ak_bas_3subat&secure=1
-#EXTINF:-1 tvg-id="6608" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326058.jpg" group-title="Süper Lig 2018/2019",Erzurumspor FK 0-1 Çaykur Rizespor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_20_erz_rize_3subat&secure=1
-#EXTINF:-1 tvg-id="6596" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326060.jpg" group-title="Süper Lig 2018/2019",Corendon Alanyaspor 1-1 Galatasaray
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_20_ala_gs_2subat&secure=1
-#EXTINF:-1 tvg-id="6625" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326054.jpg" group-title="Süper Lig 2018/2019",Kasımpaşa 1-3 Özbelsan Sivasspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_20_pasa_svs_2subat&secure=1
-#EXTINF:-1 tvg-id="6631" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326056.jpg" group-title="Süper Lig 2018/2019",Trabzonspor 1-0 MKE Ankaragücü
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_20_ts_ank_2subat&secure=1
-#EXTINF:-1 tvg-id="6637" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326059.jpg" group-title="Süper Lig 2018/2019",Fitmens Gömlek Yeni Malatyaspor 1-1 Zecorner Kayserispor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_20_mal_kay_2subat&secure=1
-#EXTINF:-1 tvg-id="6620" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326053.jpg" group-title="Süper Lig 2018/2019",Fenerbahçe 2-0 Göztepe
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_20_fb_goz_1subat&secure=1
 #EXTINF:-1 tvg-id="6641" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326063.jpg" group-title="Süper Lig 2018/2019",MKE Ankaragücü 3-0 Kasımpaşa
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_21_ank_pasa_11subat&secure=1
 #EXTINF:-1 tvg-id="6682" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326066.jpg" group-title="Süper Lig 2018/2019",Özbelsan Sivasspor 2-1 Akhisarspor
@@ -522,24 +450,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_29_ts_mal_20nisan&secure=1
 #EXTINF:-1 tvg-id="7092" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326136.jpg" group-title="Süper Lig 2018/2019",Kasımpaşa 1-1 Bursaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_29_pasa_bur_19nisan&secure=1
-#EXTINF:-1 tvg-id="7148" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326150.jpg" group-title="Süper Lig 2018/2019",Tümosan Konyaspor 0-0 Galatasaray
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_30_kon_gs_29nisan&secure=1
-#EXTINF:-1 tvg-id="7155" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326149.jpg" group-title="Süper Lig 2018/2019",Fitmens Gömlek Yeni Malatyaspor 2-1 Kasımpaşa
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_30_mal_pasa_29nisan&secure=1
-#EXTINF:-1 tvg-id="7116" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326143.jpg" group-title="Süper Lig 2018/2019",Beşiktaş 4-1 MKE Ankaragücü
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_30_bjk_ank_28nisan&secure=1
-#EXTINF:-1 tvg-id="7122" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326148.jpg" group-title="Süper Lig 2018/2019",Bursaspor 0-0 Akhisarspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_30_bur_ak_28nisan&secure=1
-#EXTINF:-1 tvg-id="7142" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326145.jpg" group-title="Süper Lig 2018/2019",Zecorner Kayserispor 1-1 Corendon Alanyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_30_kays_ala_28nisan&secure=1
-#EXTINF:-1 tvg-id="7129" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326144.jpg" group-title="Süper Lig 2018/2019",Fenerbahçe 1-1 Trabzonspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_30_fbts_27nisan&secure=1
-#EXTINF:-1 tvg-id="7111" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326147.jpg" group-title="Süper Lig 2018/2019",Hesap.com Antalyaspor 1-1 Erzurumspor FK
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_30_ant_erz_27nisan&secure=1
-#EXTINF:-1 tvg-id="7160" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326146.jpg" group-title="Süper Lig 2018/2019",Çaykur Rizespor 0-0 Özbelsan Sivasspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_30_rize_svs_27nisan&secure=1
-#EXTINF:-1 tvg-id="7135" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326151.jpg" group-title="Süper Lig 2018/2019",Rams Başakşehir 0-2 Göztepe
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_30_bas_goz_26nisan&secure=1
 #EXTINF:-1 tvg-id="7171" tvg-logo="https://media02.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2018/2019",Corendon Alanyaspor 2-4 Tümosan Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_31_ala_kon_6mayis&secure=1
 #EXTINF:-1 tvg-id="7218" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326159.jpg" group-title="Süper Lig 2018/2019",Trabzonspor 4-2 Zecorner Kayserispor
@@ -594,21 +504,3 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_33_ts_bjk_18mayis&secure=1
 #EXTINF:-1 tvg-id="7325" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326177.png" group-title="Süper Lig 2018/2019",Kasımpaşa 1-1 Tümosan Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_33_pasa_kon_17mayis&secure=1
-#EXTINF:-1 tvg-id="7344" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326182.jpg" group-title="Süper Lig 2018/2019",Fenerbahçe 3-1 Hesap.com Antalyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_34_fb_ant_26mayis&secure=1
-#EXTINF:-1 tvg-id="7351" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326179.png" group-title="Süper Lig 2018/2019",Göztepe 2-1 MKE Ankaragücü
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_34_goz_ank_26mayis&secure=1
-#EXTINF:-1 tvg-id="7366" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326183.jpg" group-title="Süper Lig 2018/2019",Zecorner Kayserispor 0-2 Erzurumspor FK
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_34_kay_erz_26mayis&secure=1
-#EXTINF:-1 tvg-id="7379" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326187.jpg" group-title="Süper Lig 2018/2019",Fitmens Gömlek Yeni Malatyaspor 1-2 Bursaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_34_mal_bur_26mayis&secure=1
-#EXTINF:-1 tvg-id="7371" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326184.jpg" group-title="Süper Lig 2018/2019",Tümosan Konyaspor 0-0 Akhisarspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_34_kon_ak_25mayis&secure=1
-#EXTINF:-1 tvg-id="7337" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326180.jpg" group-title="Süper Lig 2018/2019",Beşiktaş 3-2 Kasımpaşa
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_34_bjk_pasa_24mayis&secure=1
-#EXTINF:-1 tvg-id="7377" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326181.jpg" group-title="Süper Lig 2018/2019",Özbelsan Sivasspor 4-3 Galatasaray
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_34_svs_gs_24mayis&secure=1
-#EXTINF:-1 tvg-id="7385" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326185.jpg" group-title="Süper Lig 2018/2019",Çaykur Rizespor 2-3 Trabzonspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_34_rize_ts_24mayis&secure=1
-#EXTINF:-1 tvg-id="7359" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326186.jpg" group-title="Süper Lig 2018/2019",Rams Başakşehir 1-1 Corendon Alanyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_34_bas_ala_24mayis&secure=1
