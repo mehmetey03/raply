@@ -180,24 +180,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_10_esehir_agucu&secure=1
 #EXTINF:-1 tvg-id="34740" tvg-logo="https://media01.tr.beinsports.com/img/highlights/942.jpg" group-title="Süper Lig 2010/2011",Bursaspor 1-1 Fenerbahçe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_10_bursa_fb&secure=1
-#EXTINF:-1 tvg-id="27588" tvg-logo="https://media01.tr.beinsports.com/img/highlights/959.jpg" group-title="Süper Lig 2010/2011",Beşiktaş 1-1 Kasımpaşa
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_11_bjk_kpasa&secure=1
-#EXTINF:-1 tvg-id="1032816" tvg-logo="https://media01.tr.beinsports.com/img/highlights/958.jpg" group-title="Süper Lig 2010/2011",Trabzonspor 2-0 Galatasaray
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_11_ts_gs&secure=1
-#EXTINF:-1 tvg-id="1032815" tvg-logo="https://media03.tr.beinsports.com/img/highlights/957.jpg" group-title="Süper Lig 2010/2011",GM Manisaspor 0-1 Tümosan Konyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_11_manisa_konya&secure=1
-#EXTINF:-1 tvg-id="23184" tvg-logo="https://media01.tr.beinsports.com/img/highlights/956.jpg" group-title="Süper Lig 2010/2011",Özbelsan Sivasspor 0-4 Rams Başakşehir
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_11_sivas_ibb&secure=1
-#EXTINF:-1 tvg-id="1032818" tvg-logo="https://media03.tr.beinsports.com/img/highlights/955.jpg" group-title="Süper Lig 2010/2011",Fenerbahçe 4-2 Eskişehirspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_11_fb_esehir&secure=1
-#EXTINF:-1 tvg-id="1032817" tvg-logo="https://media02.tr.beinsports.com/img/highlights/954.jpg" group-title="Süper Lig 2010/2011",MKE Ankaragücü 0-2 Gaziantepspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_11_agucu_antep&secure=1
-#EXTINF:-1 tvg-id="1035033" tvg-logo="https://media01.tr.beinsports.com/img/highlights/952.jpg" group-title="Süper Lig 2010/2011",K.Karabükspor 3-0 Bucaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_11_karabuk_buca&secure=1
-#EXTINF:-1 tvg-id="24607" tvg-logo="https://media02.tr.beinsports.com/img/highlights/953.jpg" group-title="Süper Lig 2010/2011",Hesap.com Antalyaspor 2-2 Bursaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_11_antalya_bursa&secure=1
-#EXTINF:-1 tvg-id="1035032" tvg-logo="https://media03.tr.beinsports.com/img/highlights/951.jpg" group-title="Süper Lig 2010/2011",Zecorner Kayserispor 1-1 Gençlerbirliği
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_11_kayseri_gbirligi&secure=1
 #EXTINF:-1 tvg-id="1032813" tvg-logo="https://media01.tr.beinsports.com/img/highlights/968.jpg" group-title="Süper Lig 2010/2011",Galatasaray 0-2 GM Manisaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_12_gs_manisa&secure=1
 #EXTINF:-1 tvg-id="1035030" tvg-logo="https://media01.tr.beinsports.com/img/highlights/967.jpg" group-title="Süper Lig 2010/2011",Rams Başakşehir 2-1 K.Karabükspor
