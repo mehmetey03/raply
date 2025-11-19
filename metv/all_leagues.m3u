@@ -378,24 +378,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_21_svs_ts&secure=1
 #EXTINF:-1 tvg-id="1032758" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1041.jpg" group-title="Süper Lig 2010/2011",Bucaspor 3-2 Tümosan Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_21_buca_kon&secure=1
-#EXTINF:-1 tvg-id="1032752" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1058.jpg" group-title="Süper Lig 2010/2011",GM Manisaspor 1-2 Trabzonspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_22_manisa_ts&secure=1
-#EXTINF:-1 tvg-id="42230" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1057.jpg" group-title="Süper Lig 2010/2011",Beşiktaş 2-4 Fenerbahçe
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_22_bjk_fb&secure=1
-#EXTINF:-1 tvg-id="17038" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1056.jpg" group-title="Süper Lig 2010/2011",Tümosan Konyaspor 0-0 Rams Başakşehir
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_22_konya_ibb&secure=1
-#EXTINF:-1 tvg-id="34098" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1055.jpg" group-title="Süper Lig 2010/2011",Zecorner Kayserispor 2-0 Hesap.com Antalyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_22_kayseri_antalya&secure=1
-#EXTINF:-1 tvg-id="1032754" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1054.jpg" group-title="Süper Lig 2010/2011",Galatasaray 1-0 Bucaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_22_gs_buca&secure=1
-#EXTINF:-1 tvg-id="1035011" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1053.jpg" group-title="Süper Lig 2010/2011",Gençlerbirliği 2-3 K.Karabükspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_22_gbirligi_karabuk&secure=1
-#EXTINF:-1 tvg-id="1032755" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1052.jpg" group-title="Süper Lig 2010/2011",Bursaspor 1-4 Gaziantepspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_22_bursa_antep&secure=1
-#EXTINF:-1 tvg-id="39747" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1051.jpg" group-title="Süper Lig 2010/2011",Kasımpaşa 2-1 MKE Ankaragücü
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_22_kpasa_agucu&secure=1
-#EXTINF:-1 tvg-id="1032756" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1050.jpg" group-title="Süper Lig 2010/2011",Eskişehirspor 2-1 Özbelsan Sivasspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_22_esehir_sivas&secure=1
 #EXTINF:-1 tvg-id="38620" tvg-logo="https://media02.tr.beinsports.com/img/highlights/537.jpg" group-title="Süper Lig 2010/2011",Hesap.com Antalyaspor 0-2 Beşiktaş
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_23_antbjk_ozet&secure=1
 #EXTINF:-1 tvg-id="23225" tvg-logo="https://media03.tr.beinsports.com/img/highlights/535.jpg" group-title="Süper Lig 2010/2011",Trabzonspor 3-3 Zecorner Kayserispor
