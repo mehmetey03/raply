@@ -952,6 +952,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_19_ibb_bur&secure=1
 #EXTINF:-1 tvg-id="1034884" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729938.jpg" group-title="Süper Lig 2012/2013",K.Karabükspor 0-3 Kasımpaşa
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_19_krbk_kpasa&secure=1
+#EXTINF:-1 tvg-id="1014423" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11729950.jpg" group-title="Süper Lig 2012/2013",Fenerbahçe 1-2 Özbelsan Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_20_fb_svs&secure=1
+#EXTINF:-1 tvg-id="1014427" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729946.jpg" group-title="Süper Lig 2012/2013",Trabzonspor 4-1 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_20_ts_antep&secure=1
+#EXTINF:-1 tvg-id="1014430" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729943.jpg" group-title="Süper Lig 2012/2013",Eskişehirspor 0-0 Mersin İY
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_20_esk_miy&secure=1
+#EXTINF:-1 tvg-id="1034882" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729949.jpg" group-title="Süper Lig 2012/2013",Orduspor 2-1 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_20_ordu_gb&secure=1
+#EXTINF:-1 tvg-id="1014425" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729948.jpg" group-title="Süper Lig 2012/2013",Bursaspor 1-1 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_20_bursa_gs&secure=1
+#EXTINF:-1 tvg-id="1014428" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729945.jpg" group-title="Süper Lig 2012/2013",Hesap.com Antalyaspor 1-0 Rams Başakşehir
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_20_antalya_ibb&secure=1
+#EXTINF:-1 tvg-id="1014429" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11729944.jpg" group-title="Süper Lig 2012/2013",Kasımpaşa 0-0 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_20_pasa_ela&secure=1
+#EXTINF:-1 tvg-id="1034883" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11729947.jpg" group-title="Süper Lig 2012/2013",Beşiktaş 2-2 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_20_bjk_karabuk&secure=1
+#EXTINF:-1 tvg-id="1004047" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729951.jpg" group-title="Süper Lig 2012/2013",Akhisarspor 1-2 Zecorner Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_20_akhisar_kayseri&secure=1
 #EXTINF:-1 tvg-id="1014421" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729953.jpg" group-title="Süper Lig 2012/2013",Gaziantepspor 2-1 Kasımpaşa
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_21_antep_kpasa&secure=1
 #EXTINF:-1 tvg-id="1014419" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729955.jpg" group-title="Süper Lig 2012/2013",Galatasaray 2-0 Hesap.com Antalyaspor
