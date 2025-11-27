@@ -8474,6 +8474,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_8_kas_bod_8h_5ekim_ip&secure=1
 #EXTINF:-1 tvg-id="1474012" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1474012.jpg" group-title="Süper Lig 2024/2025",Çaykur Rizespor 2-1 Hesap.com Antalyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_8_rize_ant_8h_4ekim_ip&secure=1
+#EXTINF:-1 tvg-id="1474033" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1474033.jpg" group-title="Süper Lig 2024/2025",Sipay Bodrum FK 0-1 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_9_bodrum_rize_21ekim_ip&secure=1
+#EXTINF:-1 tvg-id="1474028" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1474028.jpg" group-title="Süper Lig 2024/2025",Corendon Alanyaspor 1-2 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_9_ala_kas_9h_20ekim_ip&secure=1
+#EXTINF:-1 tvg-id="1474036" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1474036.jpg" group-title="Süper Lig 2024/2025",Samsunspor 2-2 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_9_sams_fb_9h_20ekim_ip&secure=1
+#EXTINF:-1 tvg-id="1474032" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1474032.jpg" group-title="Süper Lig 2024/2025",Beşiktaş 2-0 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_9_bjk_kon_9h_20ekim_ip&secure=1
+#EXTINF:-1 tvg-id="1474037" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1474037.jpg" group-title="Süper Lig 2024/2025",Özbelsan Sivasspor 3-2 Atakaş Hatayspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_9_siv_hatt_9h_20ekim_ip&secure=1
+#EXTINF:-1 tvg-id="1474030" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1474030.jpg" group-title="Süper Lig 2024/2025",Hesap.com Antalyaspor 0-3 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_9_ant_gs_9h_19ekim_ip&secure=1
+#EXTINF:-1 tvg-id="1474034" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1474034.jpg" group-title="Süper Lig 2024/2025",ikas Eyüpspor 1-0 Göztepe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_9_eyup_goz_9h_19ekim_ip&secure=1
+#EXTINF:-1 tvg-id="1474038" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1474038.jpg" group-title="Süper Lig 2024/2025",Trabzonspor 1-0 Rams Başakşehir
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_9_ts_bas_9h_19ekim_ip&secure=1
+#EXTINF:-1 tvg-id="1474035" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1474035.jpg" group-title="Süper Lig 2024/2025",Zecorner Kayserispor 2-2 Gaziantep FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_9_v2_kay_gazi_19ekim_ip&secure=1
 #EXTINF:-1 tvg-id="1474045" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1474045.jpg" group-title="Süper Lig 2024/2025",Galatasaray 2-1 Beşiktaş
 https://switch.dt.ercdn.com/api/er/Get?ai=636&ar=ligtvcomtr_tauri_ozt_20242025_10_gs_bjk_10h_28ekim_ip&ak=null&switch=castup&customerid=1&format=4&action=redirect&secure=1
 #EXTINF:-1 tvg-id="1474049" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1474049.jpg" group-title="Süper Lig 2024/2025",Rams Başakşehir 1-1 ikas Eyüpspor
