@@ -1862,6 +1862,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20142015_2_krbk_ibb&secure=1
 #EXTINF:-1 tvg-id="1014091" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111000047.jpg" group-title="Süper Lig 2014/2015",Gençlerbirliği 1-2 Bursaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20142015_2_gb_bur&secure=1
+#EXTINF:-1 tvg-id="39491" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111000061.jpg" group-title="Süper Lig 2014/2015",Bursaspor 0-1 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20142015_3_bur_bjk&secure=1
+#EXTINF:-1 tvg-id="34362" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111000058.jpg" group-title="Süper Lig 2014/2015",Rams Başakşehir 1-1 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20142015_3_ibb_ts&secure=1
+#EXTINF:-1 tvg-id="1014083" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111000056.jpg" group-title="Süper Lig 2014/2015",Fenerbahçe 1-0 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20142015_3_fb_gaz&secure=1
+#EXTINF:-1 tvg-id="1014080" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111000062.jpg" group-title="Süper Lig 2014/2015",Kasımpaşa 2-1 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20142015_3_pasa_krbk&secure=1
+#EXTINF:-1 tvg-id="18917" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111000060.jpg" group-title="Süper Lig 2014/2015",Özbelsan Sivasspor 0-0 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20142015_3_svs_kon&secure=1
+#EXTINF:-1 tvg-id="1014082" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111000057.jpg" group-title="Süper Lig 2014/2015",Balıkesirspor 2-0 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20142015_3_bal_gs&secure=1
+#EXTINF:-1 tvg-id="1014084" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111000055.jpg" group-title="Süper Lig 2014/2015",Mersin İY 2-0 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20142015_3_miy_rize&secure=1
+#EXTINF:-1 tvg-id="1014081" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111000059.jpg" group-title="Süper Lig 2014/2015",K. Erciyesspor 1-2 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20142015_3_erc_ak&secure=1
+#EXTINF:-1 tvg-id="1014079" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111000063.jpg" group-title="Süper Lig 2014/2015",Eskişehirspor 0-2 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20142015_3_eski_gencler&secure=1
 #EXTINF:-1 tvg-id="1014077" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111000065.jpg" group-title="Süper Lig 2014/2015",Gaziantepspor 0-0 Rams Başakşehir
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20142015_4_antep_ib&secure=1
 #EXTINF:-1 tvg-id="1014076" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111000070.jpg" group-title="Süper Lig 2014/2015",K.Karabükspor 0-2 Mersin İY
