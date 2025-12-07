@@ -252,6 +252,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_14_riz_kay_14h_29kas_ip&secure=1
 #EXTINF:-1 tvg-id="1493488" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493488.jpg" group-title="Süper Lig 2025/2026",Kocaelispor 1-0 Gençlerbirliği
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_14_koca_genc_14h_28kas_ip&secure=1
+#EXTINF:-1 tvg-id="1493496" tvg-logo="https://media01.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2025/2026",Göztepe 1-2 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_15_goz_ts_15h_7ara_ip&secure=1
 #EXTINF:-1 tvg-id="1493498" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493498.jpg" group-title="Süper Lig 2025/2026",Kocaelispor 0-0 Kasımpaşa
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_15_koca_pasa_15h_7ara_ip&secure=1
 #EXTINF:-1 tvg-id="1493495" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493495.jpeg" group-title="Süper Lig 2025/2026",Gençlerbirliği 3-0 Mısırlı.com.tr Fatih Karagümrük
