@@ -552,6 +552,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_31_ela_krbk&secure=1
 #EXTINF:-1 tvg-id="1014335" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11730046.jpg" group-title="Süper Lig 2012/2013",Mersin İY 1-1 Hesap.com Antalyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_31_miy_ant&secure=1
+#EXTINF:-1 tvg-id="1014323" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11730059.jpg" group-title="Süper Lig 2012/2013",Hesap.com Antalyaspor 4-3 Akhisarspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_32_ant_ak&secure=1
+#EXTINF:-1 tvg-id="1014327" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11730054.jpg" group-title="Süper Lig 2012/2013",Mersin İY 0-2 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_32_miy_ela&secure=1
+#EXTINF:-1 tvg-id="1014328" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11730053.jpg" group-title="Süper Lig 2012/2013",Rams Başakşehir 2-0 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_32_ibb_fb&secure=1
+#EXTINF:-1 tvg-id="1034860" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11730051.jpg" group-title="Süper Lig 2012/2013",K.Karabükspor 0-2 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_32_krbk_antep&secure=1
+#EXTINF:-1 tvg-id="1004210" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11730058.jpg" group-title="Süper Lig 2012/2013",Galatasaray 4-2 Özbelsan Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_32_gs_svs&secure=1
+#EXTINF:-1 tvg-id="1014329" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11730052.jpg" group-title="Süper Lig 2012/2013",Eskişehirspor 1-2 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_32_esk_bjk&secure=1
+#EXTINF:-1 tvg-id="1014324" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11730057.jpg" group-title="Süper Lig 2012/2013",Zecorner Kayserispor 2-1 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_32_kayseri_trabzon&secure=1
+#EXTINF:-1 tvg-id="1014326" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11730055.jpg" group-title="Süper Lig 2012/2013",Orduspor 2-4 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_32_ordu_bursa&secure=1
+#EXTINF:-1 tvg-id="1034859" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11730056.jpg" group-title="Süper Lig 2012/2013",Gençlerbirliği 0-0 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_32_gb_kpasa&secure=1
 #EXTINF:-1 tvg-id="1014315" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11730068.jpg" group-title="Süper Lig 2012/2013",Bursaspor 0-0 Eskişehirspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_33_bur_esk&secure=1
 #EXTINF:-1 tvg-id="1014316" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11730066.jpg" group-title="Süper Lig 2012/2013",Trabzonspor 4-3 Rams Başakşehir
