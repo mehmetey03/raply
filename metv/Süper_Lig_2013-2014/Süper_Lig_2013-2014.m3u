@@ -340,24 +340,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_19_kay_pasa&secure=1
 #EXTINF:-1 tvg-id="1014195" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869123.jpg" group-title="Süper Lig 2013/2014",Beşiktaş 3-2 K. Erciyesspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_19_bjk_erc&secure=1
-#EXTINF:-1 tvg-id="1014187" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869134.jpg" group-title="Süper Lig 2013/2014",Gençlerbirliği 1-2 K.Karabükspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_gb_krbk&secure=1
-#EXTINF:-1 tvg-id="1014186" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869135.jpg" group-title="Süper Lig 2013/2014",Trabzonspor 2-4 Akhisarspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_ts_ak&secure=1
-#EXTINF:-1 tvg-id="24614" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869136.jpg" group-title="Süper Lig 2013/2014",Bursaspor 1-1 Hesap.com Antalyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_bur_ant&secure=1
-#EXTINF:-1 tvg-id="4422" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869137.jpg" group-title="Süper Lig 2013/2014",Özbelsan Sivasspor 2-0 Fenerbahçe
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_svs_fb&secure=1
-#EXTINF:-1 tvg-id="1014189" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869131.jpg" group-title="Süper Lig 2013/2014",B. Elazığspor 3-0 Zecorner Kayserispor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_ela_kay&secure=1
-#EXTINF:-1 tvg-id="1014190" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869130.jpg" group-title="Süper Lig 2013/2014",Galatasaray 3-0 Eskişehirspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_gs_esk&secure=1
-#EXTINF:-1 tvg-id="1014188" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869132.jpg" group-title="Süper Lig 2013/2014",K. Erciyesspor 1-1 Çaykur Rizespor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_erciyes_rize&secure=1
-#EXTINF:-1 tvg-id="1014185" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869138.jpg" group-title="Süper Lig 2013/2014",Gaziantepspor 1-2 Beşiktaş
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_antep_bjk&secure=1
-#EXTINF:-1 tvg-id="25470" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869133.jpg" group-title="Süper Lig 2013/2014",Kasımpaşa 1-3 Tümosan Konyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_20_pasa_kon&secure=1
 #EXTINF:-1 tvg-id="1014179" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869145.jpg" group-title="Süper Lig 2013/2014",Eskişehirspor 2-2 Özbelsan Sivasspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_21_esk_svs&secure=1
 #EXTINF:-1 tvg-id="1014182" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869141.jpg" group-title="Süper Lig 2013/2014",Hesap.com Antalyaspor 2-2 Galatasaray
