@@ -108,24 +108,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_6_gs_rize&secure=1
 #EXTINF:-1 tvg-id="1014272" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869006.jpg" group-title="Süper Lig 2013/2014",Bursaspor 0-0 Akhisarspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_6_bursa_akhisar&secure=1
-#EXTINF:-1 tvg-id="1014263" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869019.jpg" group-title="Süper Lig 2013/2014",Özbelsan Sivasspor 2-0 Gençlerbirliği
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_svs_gb&secure=1
-#EXTINF:-1 tvg-id="21586" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869020.jpg" group-title="Süper Lig 2013/2014",Fenerbahçe 0-0 Trabzonspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_fb_ts&secure=1
-#EXTINF:-1 tvg-id="1014267" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869014.jpg" group-title="Süper Lig 2013/2014",Akhisarspor 2-1 Galatasaray
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_ak_gs&secure=1
-#EXTINF:-1 tvg-id="1014266" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869015.jpg" group-title="Süper Lig 2013/2014",Kasımpaşa 4-0 B. Elazığspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_kpasa_ela&secure=1
-#EXTINF:-1 tvg-id="39332" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869018.jpg" group-title="Süper Lig 2013/2014",Çaykur Rizespor 1-2 Hesap.com Antalyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_rize_ant&secure=1
-#EXTINF:-1 tvg-id="1014262" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869021.jpg" group-title="Süper Lig 2013/2014",Eskişehirspor 0-1 Beşiktaş
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_esk_bjk&secure=1
-#EXTINF:-1 tvg-id="1014268" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869013_2.jpg" group-title="Süper Lig 2013/2014",Tümosan Konyaspor 1-0 K. Erciyesspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_kon_erc&secure=1
-#EXTINF:-1 tvg-id="1014265" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869016.jpg" group-title="Süper Lig 2013/2014",Zecorner Kayserispor 0-1 Gaziantepspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_kayseri_antep&secure=1
-#EXTINF:-1 tvg-id="1014264" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869017.jpg" group-title="Süper Lig 2013/2014",K.Karabükspor 0-1 Bursaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_7_karabuk_bursa&secure=1
 #EXTINF:-1 tvg-id="17655" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869028.jpg" group-title="Süper Lig 2013/2014",Beşiktaş 0-0 Çaykur Rizespor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_8_bjk_rize&secure=1
 #EXTINF:-1 tvg-id="35141" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869022_2.jpg" group-title="Süper Lig 2013/2014",Bursaspor 2-0 Zecorner Kayserispor
