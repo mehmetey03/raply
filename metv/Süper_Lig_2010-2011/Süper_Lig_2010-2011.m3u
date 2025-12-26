@@ -306,6 +306,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_17_kayseri_buca&secure=1
 #EXTINF:-1 tvg-id="1035021" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1005.jpg" group-title="Süper Lig 2010/2011",Trabzonspor 3-0 K.Karabükspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_17_ts_krbk&secure=1
+#EXTINF:-1 tvg-id="4408" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1022.jpg" group-title="Süper Lig 2010/2011",Zecorner Kayserispor 3-2 Rams Başakşehir
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_18_kayseri_ibb&secure=1
+#EXTINF:-1 tvg-id="26956" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1021.jpg" group-title="Süper Lig 2010/2011",Galatasaray 1-0 Özbelsan Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_18_gs_svs&secure=1
+#EXTINF:-1 tvg-id="38961" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1020.jpg" group-title="Süper Lig 2010/2011",Tümosan Konyaspor 0-0 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_18_konya_bursa&secure=1
+#EXTINF:-1 tvg-id="1032777" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1019.jpg" group-title="Süper Lig 2010/2011",Kasımpaşa 0-1 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_18_kpasa_antep&secure=1
+#EXTINF:-1 tvg-id="27644" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1018.jpg" group-title="Süper Lig 2010/2011",Hesap.com Antalyaspor 0-1 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_18_ant_fb&secure=1
+#EXTINF:-1 tvg-id="1035019" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1017.jpg" group-title="Süper Lig 2010/2011",Gençlerbirliği 0-1 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_18_gbirligi_eses&secure=1
+#EXTINF:-1 tvg-id="38370" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1016.jpg" group-title="Süper Lig 2010/2011",Trabzonspor 1-1 MKE Ankaragücü
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_18_ts_agucu&secure=1
+#EXTINF:-1 tvg-id="1035018" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1015.jpg" group-title="Süper Lig 2010/2011",GM Manisaspor 4-2 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_18_mns_krbk&secure=1
+#EXTINF:-1 tvg-id="1032776" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1014.jpg" group-title="Süper Lig 2010/2011",Beşiktaş 5-1 Bucaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_18_bjk_buca&secure=1
 #EXTINF:-1 tvg-id="1032773" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1031.jpg" group-title="Süper Lig 2010/2011",Eskişehirspor 1-0 Tümosan Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_19_eses_konya&secure=1
 #EXTINF:-1 tvg-id="21567" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1030.jpg" group-title="Süper Lig 2010/2011",Fenerbahçe 2-0 Trabzonspor
