@@ -144,6 +144,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_8_gs_krbk&secure=1
 #EXTINF:-1 tvg-id="1014258" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869027.jpg" group-title="Süper Lig 2013/2014",B. Elazığspor 0-2 Eskişehirspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_8_ela_esk&secure=1
+#EXTINF:-1 tvg-id="44110" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869037.jpg" group-title="Süper Lig 2013/2014",Kasımpaşa 3-2 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_pasa_ts&secure=1
+#EXTINF:-1 tvg-id="1014252" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869035.jpg" group-title="Süper Lig 2013/2014",Zecorner Kayserispor 2-4 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_kay_gs&secure=1
+#EXTINF:-1 tvg-id="38971" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869034.jpg" group-title="Süper Lig 2013/2014",Tümosan Konyaspor 0-1 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_kon_bur&secure=1
+#EXTINF:-1 tvg-id="1014249" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869039.jpg" group-title="Süper Lig 2013/2014",Eskişehirspor 4-1 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_esk_rize&secure=1
+#EXTINF:-1 tvg-id="1014251" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869036.jpg" group-title="Süper Lig 2013/2014",Akhisarspor 3-3 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_ak_bjk&secure=1
+#EXTINF:-1 tvg-id="1014254" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869032.jpg" group-title="Süper Lig 2013/2014",B. Elazığspor 1-2 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_ela_gb&secure=1
+#EXTINF:-1 tvg-id="1014255" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869031.jpg" group-title="Süper Lig 2013/2014",K.Karabükspor 1-1 Hesap.com Antalyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_karabuk_antalya&secure=1
+#EXTINF:-1 tvg-id="1014250" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869038.jpg" group-title="Süper Lig 2013/2014",Özbelsan Sivasspor 2-0 K. Erciyesspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_svs_erc&secure=1
+#EXTINF:-1 tvg-id="1014253" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869033.jpg" group-title="Süper Lig 2013/2014",Fenerbahçe 3-1 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_9_fb_gan&secure=1
 #EXTINF:-1 tvg-id="1014245" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869045.jpg" group-title="Süper Lig 2013/2014",Gençlerbirliği 2-0 Eskişehirspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_10_gb_esk&secure=1
 #EXTINF:-1 tvg-id="1014248" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869041.jpg" group-title="Süper Lig 2013/2014",Gaziantepspor 0-4 Özbelsan Sivasspor
