@@ -480,6 +480,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_27_gs_ibb&secure=1
 #EXTINF:-1 tvg-id="1014366" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11730014.jpg" group-title="Süper Lig 2012/2013",Gaziantepspor 2-0 Eskişehirspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_27_antep_esk&secure=1
+#EXTINF:-1 tvg-id="1014359" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11730021.jpg" group-title="Süper Lig 2012/2013",Bursaspor 3-0 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_28_bur_bjk&secure=1
+#EXTINF:-1 tvg-id="1014357" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11730023.jpg" group-title="Süper Lig 2012/2013",Eskişehirspor 2-1 Özbelsan Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_28_eski_svs&secure=1
+#EXTINF:-1 tvg-id="1014358" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11730022.jpg" group-title="Süper Lig 2012/2013",Orduspor 0-2 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_28_ordu_fb&secure=1
+#EXTINF:-1 tvg-id="1014364" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11730016.jpg" group-title="Süper Lig 2012/2013",Akhisarspor 1-0 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_28_ak_ts&secure=1
+#EXTINF:-1 tvg-id="1034868" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11730018.jpg" group-title="Süper Lig 2012/2013",Gençlerbirliği 2-2 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_28_gb_gant&secure=1
+#EXTINF:-1 tvg-id="1014363" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11730017.jpg" group-title="Süper Lig 2012/2013",Galatasaray 3-1 Mersin İY
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_28_gs_miy&secure=1
+#EXTINF:-1 tvg-id="1014361" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11730019.jpg" group-title="Süper Lig 2012/2013",Zecorner Kayserispor 4-1 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_28_kay_ela&secure=1
+#EXTINF:-1 tvg-id="1034867" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11730020.jpg" group-title="Süper Lig 2012/2013",Rams Başakşehir 2-2 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_28_ibb_krbk&secure=1
+#EXTINF:-1 tvg-id="1014365" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11730015.jpg" group-title="Süper Lig 2012/2013",Hesap.com Antalyaspor 3-2 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_28_ant_kpasa&secure=1
 #EXTINF:-1 tvg-id="1014352" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11730028.jpg" group-title="Süper Lig 2012/2013",Beşiktaş 1-0 Hesap.com Antalyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_29_bjk_ant&secure=1
 #EXTINF:-1 tvg-id="1014348" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11730032.jpg" group-title="Süper Lig 2012/2013",Fenerbahçe 1-0 Eskişehirspor
