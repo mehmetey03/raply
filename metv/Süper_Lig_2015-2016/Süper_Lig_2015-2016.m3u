@@ -90,6 +90,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_5_miy_osm_18eylul&secure=1
 #EXTINF:-1 tvg-id="1013851" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111117484.jpg" group-title="Süper Lig 2015/2016",Rams Başakşehir 2-0 Akhisarspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_5_bas_ak_18eylul&secure=1
+#EXTINF:-1 tvg-id="1013845" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111117493.jpg" group-title="Süper Lig 2015/2016",Bursaspor 2-0 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_6_bur_esk&secure=1
+#EXTINF:-1 tvg-id="4398" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111117496.jpg" group-title="Süper Lig 2015/2016",Zecorner Kayserispor 0-1 Rams Başakşehir
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_6_kay_bas&secure=1
+#EXTINF:-1 tvg-id="34679" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111117488.jpg" group-title="Süper Lig 2015/2016",Kasımpaşa 1-1 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_6_pasa_rize&secure=1
+#EXTINF:-1 tvg-id="42201" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111117492.jpg" group-title="Süper Lig 2015/2016",Beşiktaş 3-2 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_6_bjk_fb&secure=1
+#EXTINF:-1 tvg-id="42128" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111117489.jpg" group-title="Süper Lig 2015/2016",Hesap.com Antalyaspor 1-1 Özbelsan Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_6_ant_svs&secure=1
+#EXTINF:-1 tvg-id="1013844" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111117494.jpg" group-title="Süper Lig 2015/2016",Tümosan Konyaspor 2-0 Mersin İY
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_6_kon_miy_27eylul&secure=1
+#EXTINF:-1 tvg-id="1013847" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111117490.jpg" group-title="Süper Lig 2015/2016",Galatasaray 2-1 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_6_gs_antep&secure=1
+#EXTINF:-1 tvg-id="1034717" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111117491.jpg" group-title="Süper Lig 2015/2016",Akhisarspor 1-0 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_6_ak_gb&secure=1
+#EXTINF:-1 tvg-id="1013843" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111117495.jpg" group-title="Süper Lig 2015/2016",Ankaraspor 3-1 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_6_osm_ts_26eylul&secure=1
 #EXTINF:-1 tvg-id="24574" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111117497.jpg" group-title="Süper Lig 2015/2016",Fenerbahçe 2-2 Akhisarspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_7_fb_ak&secure=1
 #EXTINF:-1 tvg-id="1013840" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111117504.jpg" group-title="Süper Lig 2015/2016",Eskişehirspor 1-2 Beşiktaş
