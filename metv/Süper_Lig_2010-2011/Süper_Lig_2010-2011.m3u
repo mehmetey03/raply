@@ -468,6 +468,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_26_kpasa_manisa&secure=1
 #EXTINF:-1 tvg-id="1032733" tvg-logo="https://media02.tr.beinsports.com/img/highlights/598.jpg" group-title="Süper Lig 2010/2011",Galatasaray 1-2 Fenerbahçe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_26_gs_fb&secure=1
+#EXTINF:-1 tvg-id="1032728" tvg-logo="https://media03.tr.beinsports.com/img/highlights/652.jpg" group-title="Süper Lig 2010/2011",Hesap.com Antalyaspor 3-0 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_27_antalya_gsaray&secure=1
+#EXTINF:-1 tvg-id="1032726" tvg-logo="https://media01.tr.beinsports.com/img/highlights/645.jpg" group-title="Süper Lig 2010/2011",Rams Başakşehir 2-1 Bucaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_27_ibb_buca&secure=1
+#EXTINF:-1 tvg-id="34689" tvg-logo="https://media01.tr.beinsports.com/img/highlights/644.jpg" group-title="Süper Lig 2010/2011",Fenerbahçe 0-0 Bursaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_27_fb_bursa&secure=1
+#EXTINF:-1 tvg-id="1035001" tvg-logo="https://media02.tr.beinsports.com/img/highlights/642.jpg" group-title="Süper Lig 2010/2011",GM Manisaspor 0-3 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_27_manisa_gencler&secure=1
+#EXTINF:-1 tvg-id="25192" tvg-logo="https://media02.tr.beinsports.com/img/highlights/641.jpg" group-title="Süper Lig 2010/2011",Zecorner Kayserispor 1-3 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_27_kayseri_kpasa&secure=1
+#EXTINF:-1 tvg-id="1032727" tvg-logo="https://media02.tr.beinsports.com/img/highlights/636.jpg" group-title="Süper Lig 2010/2011",MKE Ankaragücü 2-2 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_27_agucu_eskisehir&secure=1
+#EXTINF:-1 tvg-id="24170" tvg-logo="https://media03.tr.beinsports.com/img/highlights/638.jpg" group-title="Süper Lig 2010/2011",Trabzonspor 1-0 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_27_trabzon_konya&secure=1
+#EXTINF:-1 tvg-id="1035002" tvg-logo="https://media03.tr.beinsports.com/img/highlights/628.jpg" group-title="Süper Lig 2010/2011",K.Karabükspor 3-2 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_27_karabuk_antep&secure=1
+#EXTINF:-1 tvg-id="19764" tvg-logo="https://media01.tr.beinsports.com/img/highlights/629.jpg" group-title="Süper Lig 2010/2011",Özbelsan Sivasspor 1-0 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_27_sivas_bjk&secure=1
 #EXTINF:-1 tvg-id="27595" tvg-logo="https://media02.tr.beinsports.com/img/highlights/683.jpg" group-title="Süper Lig 2010/2011",Kasımpaşa 0-1 Beşiktaş
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_28_pasa_bjk&secure=1
 #EXTINF:-1 tvg-id="1032722" tvg-logo="https://media03.tr.beinsports.com/img/highlights/672.jpg" group-title="Süper Lig 2010/2011",Galatasaray 0-1 Trabzonspor
