@@ -646,24 +646,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_2_svs_miy&secure=1
 #EXTINF:-1 tvg-id="1034917" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729785.jpg" group-title="Süper Lig 2012/2013",Kasımpaşa 2-1 K.Karabükspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_2_kpasa_krbk&secure=1
-#EXTINF:-1 tvg-id="1014570" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11729793.jpg" group-title="Süper Lig 2012/2013",Gaziantepspor 1-0 Trabzonspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_3_antep_ts&secure=1
-#EXTINF:-1 tvg-id="1014568" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729795.jpg" group-title="Süper Lig 2012/2013",Galatasaray 3-2 Bursaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_3_gs_bur&secure=1
-#EXTINF:-1 tvg-id="1014566" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729797.jpg" group-title="Süper Lig 2012/2013",Özbelsan Sivasspor 0-0 Fenerbahçe
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_3_svs_fb&secure=1
-#EXTINF:-1 tvg-id="1014572" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729791.jpg" group-title="Süper Lig 2012/2013",B. Elazığspor 0-3 Kasımpaşa
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_3_ela_kpasa&secure=1
-#EXTINF:-1 tvg-id="1034916" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11729794.jpg" group-title="Süper Lig 2012/2013",K.Karabükspor 0-3 Beşiktaş
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_3_krbk_bjk&secure=1
-#EXTINF:-1 tvg-id="1014571" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729792.jpg" group-title="Süper Lig 2012/2013",Rams Başakşehir 0-1 Hesap.com Antalyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_3_ibb_ant&secure=1
-#EXTINF:-1 tvg-id="1004044" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729798.jpg" group-title="Süper Lig 2012/2013",Zecorner Kayserispor 1-1 Akhisarspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_3_kay_ak&secure=1
-#EXTINF:-1 tvg-id="1014573" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11729790.jpg" group-title="Süper Lig 2012/2013",Mersin İY 1-3 Eskişehirspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_3_miy_esk&secure=1
-#EXTINF:-1 tvg-id="1034915" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729796.jpg" group-title="Süper Lig 2012/2013",Gençlerbirliği 1-1 Orduspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_3_gb_ordu&secure=1
 #EXTINF:-1 tvg-id="1014557" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729807.jpg" group-title="Süper Lig 2012/2013",Orduspor 3-2 Zecorner Kayserispor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_4_ordu_kay&secure=1
 #EXTINF:-1 tvg-id="1014561" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11729803.jpg" group-title="Süper Lig 2012/2013",Beşiktaş 3-0 B. Elazığspor
