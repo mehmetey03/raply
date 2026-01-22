@@ -556,6 +556,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_31_ts_gan&secure=1
 #EXTINF:-1 tvg-id="1014121" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869232.jpg" group-title="Süper Lig 2013/2014",Gençlerbirliği 1-0 Bursaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_31_gb_bur&secure=1
+#EXTINF:-1 tvg-id="24577" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869245.jpg" group-title="Süper Lig 2013/2014",Akhisarspor 3-1 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_ak_fb&secure=1
+#EXTINF:-1 tvg-id="18893" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869242.jpg" group-title="Süper Lig 2013/2014",Bursaspor 2-2 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_bursa_trabzon&secure=1
+#EXTINF:-1 tvg-id="21640" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869240.jpg" group-title="Süper Lig 2013/2014",Çaykur Rizespor 1-1 Özbelsan Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_rize_svs&secure=1
+#EXTINF:-1 tvg-id="1014117" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869239.jpg" group-title="Süper Lig 2013/2014",Galatasaray 3-2 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_gs_gb&secure=1
+#EXTINF:-1 tvg-id="27594" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869244.jpg" group-title="Süper Lig 2013/2014",Beşiktaş 2-1 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_bjk_pasa&secure=1
+#EXTINF:-1 tvg-id="1014114" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869246.jpg" group-title="Süper Lig 2013/2014",K. Erciyesspor 1-0 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_erc_gaz&secure=1
+#EXTINF:-1 tvg-id="1014115" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869243.jpg" group-title="Süper Lig 2013/2014",Hesap.com Antalyaspor 1-2 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_ant_ela&secure=1
+#EXTINF:-1 tvg-id="1014116" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869241.jpg" group-title="Süper Lig 2013/2014",Eskişehirspor 1-4 Zecorner Kayserispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_esk_kay&secure=1
+#EXTINF:-1 tvg-id="1014118" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11869238.jpg" group-title="Süper Lig 2013/2014",K.Karabükspor 2-2 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_32_krbk_kon&secure=1
 #EXTINF:-1 tvg-id="1014107" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11869255_1.jpg" group-title="Süper Lig 2013/2014",Trabzonspor 1-4 Galatasaray
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20132014_33_ts_gs&secure=1
 #EXTINF:-1 tvg-id="1014108" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11869254.jpg" group-title="Süper Lig 2013/2014",B. Elazığspor 0-1 Beşiktaş
