@@ -324,24 +324,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_18_svs_gan&secure=1
 #EXTINF:-1 tvg-id="1014446" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729927.jpg" group-title="Süper Lig 2012/2013",Kasımpaşa 2-1 Galatasaray
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_18_kpasa_gs&secure=1
-#EXTINF:-1 tvg-id="1014431" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729942.jpg" group-title="Süper Lig 2012/2013",Eskişehirspor 1-0 Orduspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_19_esk_ordu&secure=1
-#EXTINF:-1 tvg-id="1014432" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11729941.jpg" group-title="Süper Lig 2012/2013",Galatasaray 2-1 Beşiktaş
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_19_gala_bjk&secure=1
-#EXTINF:-1 tvg-id="1014433" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729940.jpg" group-title="Süper Lig 2012/2013",Mersin İY 3-0 Özbelsan Sivasspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_19_miy_svs&secure=1
-#EXTINF:-1 tvg-id="1014439" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729934.jpg" group-title="Süper Lig 2012/2013",B. Elazığspor 3-1 Trabzonspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_19_ela_ts&secure=1
-#EXTINF:-1 tvg-id="1014437" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729936.jpg" group-title="Süper Lig 2012/2013",Zecorner Kayserispor 2-0 Hesap.com Antalyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_19_kayseri_antalya&secure=1
-#EXTINF:-1 tvg-id="1014434" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729939.jpg" group-title="Süper Lig 2012/2013",Gaziantepspor 1-2 Fenerbahçe
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_19_antep_fb&secure=1
-#EXTINF:-1 tvg-id="1034885" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729935.jpg" group-title="Süper Lig 2012/2013",Gençlerbirliği 1-0 Akhisarspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_19_gb_ak&secure=1
-#EXTINF:-1 tvg-id="1014436" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729937.jpg" group-title="Süper Lig 2012/2013",Rams Başakşehir 4-1 Bursaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_19_ibb_bur&secure=1
-#EXTINF:-1 tvg-id="1034884" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729938.jpg" group-title="Süper Lig 2012/2013",K.Karabükspor 0-3 Kasımpaşa
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_19_krbk_kpasa&secure=1
 #EXTINF:-1 tvg-id="1014423" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11729950.jpg" group-title="Süper Lig 2012/2013",Fenerbahçe 1-2 Özbelsan Sivasspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_20_fb_svs&secure=1
 #EXTINF:-1 tvg-id="1014427" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729946.jpg" group-title="Süper Lig 2012/2013",Trabzonspor 4-1 Gaziantepspor
