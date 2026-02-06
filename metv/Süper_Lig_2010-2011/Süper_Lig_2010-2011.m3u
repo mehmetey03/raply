@@ -54,24 +54,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_3_gantep_konya&secure=1
 #EXTINF:-1 tvg-id="18673" tvg-logo="https://media02.tr.beinsports.com/img/highlights/879.jpg" group-title="Süper Lig 2010/2011",MKE Ankaragücü 1-1 Zecorner Kayserispor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_3_ankaragucu_kayseri&secure=1
-#EXTINF:-1 tvg-id="1032855" tvg-logo="https://media01.tr.beinsports.com/img/highlights/896.jpg" group-title="Süper Lig 2010/2011",Galatasaray 1-0 Gaziantepspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_4_gs_antep&secure=1
-#EXTINF:-1 tvg-id="1035045" tvg-logo="https://media01.tr.beinsports.com/img/highlights/895.jpg" group-title="Süper Lig 2010/2011",Gençlerbirliği 2-1 Rams Başakşehir
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_4_gbirligi_ibb&secure=1
-#EXTINF:-1 tvg-id="1035046" tvg-logo="https://media02.tr.beinsports.com/img/highlights/894.jpg" group-title="Süper Lig 2010/2011",Kasımpaşa 1-2 K.Karabükspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_4_kpasa_karabuk&secure=1
-#EXTINF:-1 tvg-id="35288" tvg-logo="https://media03.tr.beinsports.com/img/highlights/893.jpg" group-title="Süper Lig 2010/2011",Trabzonspor 6-1 Özbelsan Sivasspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_4_trabzon_sivas&secure=1
-#EXTINF:-1 tvg-id="1032853" tvg-logo="https://media02.tr.beinsports.com/img/highlights/892.jpg" group-title="Süper Lig 2010/2011",GM Manisaspor 1-2 Hesap.com Antalyaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_4_manisa_antalya&secure=1
-#EXTINF:-1 tvg-id="1032857" tvg-logo="https://media03.tr.beinsports.com/img/highlights/890.jpg" group-title="Süper Lig 2010/2011",Tümosan Konyaspor 1-1 Bucaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_4_konya_buca&secure=1
-#EXTINF:-1 tvg-id="21379" tvg-logo="https://media02.tr.beinsports.com/img/highlights/891.jpg" group-title="Süper Lig 2010/2011",Beşiktaş 4-0 MKE Ankaragücü
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_4_bjk_agucu&secure=1
-#EXTINF:-1 tvg-id="39348" tvg-logo="https://media01.tr.beinsports.com/img/highlights/889.jpg" group-title="Süper Lig 2010/2011",Zecorner Kayserispor 2-0 Fenerbahçe
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_4_kayseri_fb&secure=1
-#EXTINF:-1 tvg-id="1032856" tvg-logo="https://media02.tr.beinsports.com/img/highlights/888.jpg" group-title="Süper Lig 2010/2011",Bursaspor 2-1 Eskişehirspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_4_bursa_esehir&secure=1
 #EXTINF:-1 tvg-id="1032848" tvg-logo="https://media03.tr.beinsports.com/img/highlights/905.jpg" group-title="Süper Lig 2010/2011",Gaziantepspor 0-3 Bursaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_5_antep_bursa&secure=1
 #EXTINF:-1 tvg-id="1035044" tvg-logo="https://media03.tr.beinsports.com/img/highlights/902.jpg" group-title="Süper Lig 2010/2011",K.Karabükspor 3-0 Gençlerbirliği
