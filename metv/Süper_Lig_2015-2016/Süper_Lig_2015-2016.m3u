@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1034722" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111117447.jpg" group-title="Süper Lig 2015/2016",Gençlerbirliği 2-3 Çaykur Rizespor
+#EXTINF:-1 tvg-id="1034722" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111117447.jpg" group-title="Süper Lig 2015/2016",Natura Dünyası Gençlerbirliği 2-3 Çaykur Rizespor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_1_gb_rize&secure=1
 #EXTINF:-1 tvg-id="1013872" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111117449.jpg" group-title="Süper Lig 2015/2016",Gaziantepspor 0-3 Kasımpaşa
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_1_antep_pasa&secure=1
