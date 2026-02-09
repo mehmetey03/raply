@@ -118,7 +118,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20162017_7_bur_osm_16ekim&secure=1
 #EXTINF:-1 tvg-id="1013643" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111191456.jpg" group-title="Süper Lig 2016/2017",Rams Başakşehir 1-1 Tümosan Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20162017_7_bas_kon_16ekim&secure=1
-#EXTINF:-1 tvg-id="1034611" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111191457.jpg" group-title="Süper Lig 2016/2017",Gençlerbirliği 0-1 Galatasaray
+#EXTINF:-1 tvg-id="1034611" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111191457.jpg" group-title="Süper Lig 2016/2017",Natura Dünyası Gençlerbirliği 0-1 Galatasaray
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20162017_7_gb_gs_15ekim&secure=1
 #EXTINF:-1 tvg-id="1034610" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111191459.jpg" group-title="Süper Lig 2016/2017",Adanaspor 1-2 K.Karabükspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20162017_7_ada_krbk_15ekim&secure=1
@@ -202,7 +202,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20162017_12_kon_osm&secure=1
 #EXTINF:-1 tvg-id="1013602" tvg-logo="https://media02.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2016/2017",Çaykur Rizespor 1-5 Fenerbahçe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20162017_12_rize_fb_27kasim&secure=1
-#EXTINF:-1 tvg-id="1034600" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111191507.jpg" group-title="Süper Lig 2016/2017",Gençlerbirliği 0-0 Trabzonspor
+#EXTINF:-1 tvg-id="1034600" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111191507.jpg" group-title="Süper Lig 2016/2017",Natura Dünyası Gençlerbirliği 0-0 Trabzonspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20162017_12_gb_ts_27kasim&secure=1
 #EXTINF:-1 tvg-id="1013596" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111191508.jpg" group-title="Süper Lig 2016/2017",Beşiktaş 1-1 Rams Başakşehir
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20162017_12_bjk_bas_26kasim&secure=1
