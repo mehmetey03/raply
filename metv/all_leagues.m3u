@@ -9410,3 +9410,5 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_22_ant_sam_22h_13sub_ip&secure=1
 #EXTINF:-1 tvg-id="1493556" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493556.jpg" group-title="Süper Lig 2025/2026",Galatasaray 5-1 ikas Eyüpspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_22_gs_eyup_22h_13sub_ip&secure=1
+#EXTINF:-1 tvg-id="1493565" tvg-logo="https://media01.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2025/2026",Çaykur Rizespor 2-0 Kocaelispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_23_rize_koca_23h_20sub_ip&secure=1
