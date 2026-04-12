@@ -504,6 +504,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_28_genc_goz_28h_4nisan_ip&secure=1
 #EXTINF:-1 tvg-id="1493613" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493613.jpg" group-title="Süper Lig 2025/2026",Kasımpaşa 2-0 Zecorner Kayserispor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_28_kas_kay_28h_4nisan_ip&secure=1
+#EXTINF:-1 tvg-id="1493622" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493622.jpg" group-title="Süper Lig 2025/2026",Göztepe 3-3 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_29_goztepe_kpasa_29h_12nisan&secure=1
 #EXTINF:-1 tvg-id="1493625" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493625.jpg" group-title="Süper Lig 2025/2026",Tümosan Konyaspor 3-0 Mısırlı.com.tr Fatih Karagümrük
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_29_konya_kara_29h_12nisan_ip&secure=1
 #EXTINF:-1 tvg-id="1493624" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493624.jpg" group-title="Süper Lig 2025/2026",Zecorner Kayserispor 0-4 Fenerbahçe
