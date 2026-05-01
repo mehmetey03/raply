@@ -558,3 +558,5 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_31_eyup_antep_31h_25nisan_ip&secure=1
 #EXTINF:-1 tvg-id="1493641" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493641.jpg" group-title="Süper Lig 2025/2026",Rams Başakşehir 4-0 Kasımpaşa
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_31_bas_kas_31h_24nisan_ip&secure=1
+#EXTINF:-1 tvg-id="1493645" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1493645.jpg" group-title="Süper Lig 2025/2026",Çaykur Rizespor 3-2 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_32_rize_kon_32h_1mayis_ip&secure=1
