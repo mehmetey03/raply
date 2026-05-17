@@ -594,11 +594,13 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_33_koca_kara_33h_9mayis_ip&secure=1
 #EXTINF:-1 tvg-id="1493661" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493661.jpg" group-title="Süper Lig 2025/2026",Tümosan Konyaspor 0-3 Fenerbahçe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_33_konya_fb_33h_9mayis_ip&secure=1
+#EXTINF:-1 tvg-id="1493662" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493662.jpg" group-title="Süper Lig 2025/2026",Hesap.com Antalyaspor 1-0 Kocaelispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_34_antalya_kocaeli_17may_ip&secure=1
 #EXTINF:-1 tvg-id="1493665" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493665.jpg" group-title="Süper Lig 2025/2026",Fenerbahçe 3-3 ikas Eyüpspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_34_fb_eyup_34h_17may_ip&secure=1
 #EXTINF:-1 tvg-id="1493667" tvg-logo="https://media01.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2025/2026",Kasımpaşa 1-0 Galatasaray
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_34_kas_gs_34h_17may_ip&secure=1
-#EXTINF:-1 tvg-id="1493670" tvg-logo="https://media01.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2025/2026",Trabzonspor 0-3 Natura Dünyası Gençlerbirliği
+#EXTINF:-1 tvg-id="1493670" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1493670.jpg" group-title="Süper Lig 2025/2026",Trabzonspor 0-3 Natura Dünyası Gençlerbirliği
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_34_ts_gencler_34h_17may_ip&secure=1
 #EXTINF:-1 tvg-id="1493668" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1493668.jpg" group-title="Süper Lig 2025/2026",Zecorner Kayserispor 2-1 Tümosan Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_34_kay_kon_34h_17mayis_ip&secure=1
