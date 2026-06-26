@@ -298,7 +298,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_17_mns_ibb&secure=1
 #EXTINF:-1 tvg-id="4433" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1009.jpg" group-title="Süper Lig 2010/2011",Fenerbahçe 1-0 Özbelsan Sivasspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_17_fb_svs&secure=1
-#EXTINF:-1 tvg-id="1035020" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1007.jpg" group-title="Süper Lig 2010/2011",Natura Dünyası Gençlerbirliği 1-5 Bursaspor
+#EXTINF:-1 tvg-id="1035020" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1007.jpg" group-title="Süper Lig 2010/2011",Gençlerbirliği 1-5 Bursaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_17_gencler_bursa&secure=1
 #EXTINF:-1 tvg-id="42945" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1008.jpg" group-title="Süper Lig 2010/2011",Hesap.com Antalyaspor 2-2 MKE Ankaragücü
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_17_ant_agucu&secure=1
@@ -440,7 +440,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_25_buca_antep&secure=1
 #EXTINF:-1 tvg-id="1032739" tvg-logo="https://media02.tr.beinsports.com/img/highlights/583.jpg" group-title="Süper Lig 2010/2011",MKE Ankaragücü 3-2 Galatasaray
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_25_agucu_gsaray&secure=1
-#EXTINF:-1 tvg-id="1035005" tvg-logo="https://media03.tr.beinsports.com/img/highlights/584.jpg" group-title="Süper Lig 2010/2011",Hesap.com Antalyaspor 0-0 Natura Dünyası Gençlerbirliği
+#EXTINF:-1 tvg-id="1035005" tvg-logo="https://media03.tr.beinsports.com/img/highlights/584.jpg" group-title="Süper Lig 2010/2011",Hesap.com Antalyaspor 0-0 Gençlerbirliği
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_25_antalya_gencler&secure=1
 #EXTINF:-1 tvg-id="44505" tvg-logo="https://media01.tr.beinsports.com/img/highlights/582.jpg" group-title="Süper Lig 2010/2011",Trabzonspor 1-0 Kasımpaşa
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_25_ts_kpasa&secure=1
