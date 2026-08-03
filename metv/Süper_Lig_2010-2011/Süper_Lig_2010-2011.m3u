@@ -76,7 +76,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_5_antep_bursa&secure=1
 #EXTINF:-1 tvg-id="1035044" tvg-logo="https://media03.tr.beinsports.com/img/highlights/902.jpg" group-title="Süper Lig 2010/2011",K.Karabükspor 3-0 Gençlerbirliği
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_5_karabuk_gbirligi&secure=1
-#EXTINF:-1 tvg-id="17036" tvg-logo="https://media03.tr.beinsports.com/img/highlights/904.jpg" group-title="Süper Lig 2010/2011",Rams Başakşehir 1-0 Tümosan Konyaspor
+#EXTINF:-1 tvg-id="17036" tvg-logo="https://media03.tr.beinsports.com/img/highlights/904.jpg" group-title="Süper Lig 2010/2011",İstanbul Başakşehir 1-0 Tümosan Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_5_ibb_konya&secure=1
 #EXTINF:-1 tvg-id="42223" tvg-logo="https://media02.tr.beinsports.com/img/highlights/903.jpg" group-title="Süper Lig 2010/2011",Fenerbahçe 1-1 Beşiktaş
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_5_fb_bjk&secure=1
@@ -200,7 +200,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_11_kayseri_gbirligi&secure=1
 #EXTINF:-1 tvg-id="1032813" tvg-logo="https://media01.tr.beinsports.com/img/highlights/968.jpg" group-title="Süper Lig 2010/2011",Galatasaray 0-2 GM Manisaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_12_gs_manisa&secure=1
-#EXTINF:-1 tvg-id="1035030" tvg-logo="https://media01.tr.beinsports.com/img/highlights/967.jpg" group-title="Süper Lig 2010/2011",Rams Başakşehir 2-1 K.Karabükspor
+#EXTINF:-1 tvg-id="1035030" tvg-logo="https://media01.tr.beinsports.com/img/highlights/967.jpg" group-title="Süper Lig 2010/2011",İstanbul Başakşehir 2-1 K.Karabükspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_12_ibb_karabuk&secure=1
 #EXTINF:-1 tvg-id="1035031" tvg-logo="https://media02.tr.beinsports.com/img/highlights/966.jpg" group-title="Süper Lig 2010/2011",Gençlerbirliği 0-2 Beşiktaş
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_12_gencler_bjk&secure=1
@@ -570,7 +570,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_32_gbirligi_konya&secure=1
 #EXTINF:-1 tvg-id="1032694" tvg-logo="https://media02.tr.beinsports.com/img/highlights/790.jpg" group-title="Süper Lig 2010/2011",Gaziantepspor 1-0 GM Manisaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_32_antep_manisa&secure=1
-#EXTINF:-1 tvg-id="41688" tvg-logo="https://media01.tr.beinsports.com/img/highlights/789.jpg" group-title="Süper Lig 2010/2011",Rams Başakşehir 1-1 Antalyaspor
+#EXTINF:-1 tvg-id="41688" tvg-logo="https://media01.tr.beinsports.com/img/highlights/789.jpg" group-title="Süper Lig 2010/2011",İstanbul Başakşehir 1-1 Antalyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_32_ibb_ant&secure=1
 #EXTINF:-1 tvg-id="1032699" tvg-logo="https://media01.tr.beinsports.com/img/highlights/783.jpg" group-title="Süper Lig 2010/2011",Eskişehirspor 1-2 Kayserispor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20102011_32_esk_kay&secure=1
