@@ -38,7 +38,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_2_ts_hat_2h_12agu_ip&secure=1
 #EXTINF:-1 tvg-id="1423113" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1423113.jpg" group-title="Süper Lig 2022/2023",Fenerbahçe 4-2 Adana Demirspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_3_fb_ads_3h_22agu_ip&secure=1
-#EXTINF:-1 tvg-id="1423117" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1423117.jpg" group-title="Süper Lig 2022/2023",İstanbulspor 0-4 Tümosan Konyaspor
+#EXTINF:-1 tvg-id="1423117" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1423117.jpg" group-title="Süper Lig 2022/2023",İstanbulspor 0-4 Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_3_ist_kon_3h_22agu_ip&secure=1
 #EXTINF:-1 tvg-id="1423118" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1423118.jpg" group-title="Süper Lig 2022/2023",Sivasspor 1-1 Corendon Alanyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_3_rev_siv_ala_3h_22agu_ip&secure=1
@@ -156,7 +156,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_9_umr_kay_9h_9ekim_ip&secure=1
 #EXTINF:-1 tvg-id="1423168" tvg-logo="https://media02.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2022/2023",Bitexen Giresunspor 0-1 Beşiktaş
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_9_gir_bjk_9h_8ekim_ip&secure=1
-#EXTINF:-1 tvg-id="1423165" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1423165.jpg" group-title="Süper Lig 2022/2023",Antalyaspor 1-1 Tümosan Konyaspor
+#EXTINF:-1 tvg-id="1423165" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1423165.jpg" group-title="Süper Lig 2022/2023",Antalyaspor 1-1 Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_9_ant_kon_9h_8ekim_ip&secure=1
 #EXTINF:-1 tvg-id="1423171" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1423171.jpg" group-title="Süper Lig 2022/2023",İstanbulspor 1-2 MKE Ankaragücü
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_9_rev2_ist_agucu_8ekim_ip&secure=1
@@ -462,7 +462,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_27_fb_bjk_27h_2nisan_ip&secure=1
 #EXTINF:-1 tvg-id="1423330" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1423330.jpg" group-title="Süper Lig 2022/2023",Bitexen Giresunspor 2-2 Corendon Alanyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_27_gir_ala_27h_2nisan_ip&secure=1
-#EXTINF:-1 tvg-id="1423335" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1423335.jpg" group-title="Süper Lig 2022/2023",Ümraniyespor  2-2 Tümosan Konyaspor
+#EXTINF:-1 tvg-id="1423335" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1423335.jpg" group-title="Süper Lig 2022/2023",Ümraniyespor  2-2 Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_27_umr_kon_27h_2nisan_ip&secure=1
 #EXTINF:-1 tvg-id="1423328" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1423328.jpg" group-title="Süper Lig 2022/2023",Galatasaray 2-0 Adana Demirspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_27_gs_ads_27h_1nisan_ip&secure=1
@@ -538,7 +538,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_32_siv_fener_32h_29nisan_ip&secure=1
 #EXTINF:-1 tvg-id="1423375" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1423375.jpg" group-title="Süper Lig 2022/2023",Mısırlıcomtr Fatih Karagümrük 0-1 Antalyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_32_kara_ant_32h_29nisan_ip&secure=1
-#EXTINF:-1 tvg-id="1423379" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1423379.jpg" group-title="Süper Lig 2022/2023",Tümosan Konyaspor 2-1 Trabzonspor
+#EXTINF:-1 tvg-id="1423379" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1423379.jpg" group-title="Süper Lig 2022/2023",Konyaspor 2-1 Trabzonspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_32_kon_ts_32h_29nisan_ip&secure=1
 #EXTINF:-1 tvg-id="1423372" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1423372.jpg" group-title="Süper Lig 2022/2023",Corendon Alanyaspor 1-0 Ümraniyespor 
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20222023_32_alanya_umraniye_32h_28nisan_ip&secure=1
