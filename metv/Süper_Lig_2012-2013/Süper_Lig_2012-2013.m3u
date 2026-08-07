@@ -54,7 +54,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_3_miy_esk&secure=1
 #EXTINF:-1 tvg-id="1034915" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729796.jpg" group-title="Süper Lig 2012/2013",Gençlerbirliği 1-1 Orduspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_3_gb_ordu&secure=1
-#EXTINF:-1 tvg-id="1014557" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729807.jpg" group-title="Süper Lig 2012/2013",Orduspor 3-2 Kayserispor
+#EXTINF:-1 tvg-id="1014557" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729807.jpg" group-title="Süper Lig 2012/2013",Orduspor 3-2 Metro Holding Kayserispor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_4_ordu_kay&secure=1
 #EXTINF:-1 tvg-id="1014561" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11729803.jpg" group-title="Süper Lig 2012/2013",Beşiktaş 3-0 B. Elazığspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_4_bjk_ela&secure=1
@@ -62,7 +62,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_4_ak_ibb&secure=1
 #EXTINF:-1 tvg-id="1014559" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729805.jpg" group-title="Süper Lig 2012/2013",Fenerbahçe 2-1 Mersin İY
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_4_fb_miy&secure=1
-#EXTINF:-1 tvg-id="1014560" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729804.jpg" group-title="Süper Lig 2012/2013",Trabzonspor 1-0 Sivasspor
+#EXTINF:-1 tvg-id="1014560" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729804.jpg" group-title="Süper Lig 2012/2013",Trabzonspor 1-0 Ekenler Beton Sivasspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_4_ts_svs&secure=1
 #EXTINF:-1 tvg-id="1034913" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11729801.jpg" group-title="Süper Lig 2012/2013",Eskişehirspor 4-2 Gençlerbirliği
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_4_esk_gb&secure=1
@@ -182,7 +182,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_10_ibb_gs&secure=1
 #EXTINF:-1 tvg-id="1014501" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11729869.jpg" group-title="Süper Lig 2012/2013",Fenerbahçe 2-1 Orduspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_11_fb_ordu&secure=1
-#EXTINF:-1 tvg-id="1014504" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11729866.jpg" group-title="Süper Lig 2012/2013",B. Elazığspor 0-4 Kayserispor
+#EXTINF:-1 tvg-id="1014504" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11729866.jpg" group-title="Süper Lig 2012/2013",B. Elazığspor 0-4 Metro Holding Kayserispor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_11_elazig_kayseri&secure=1
 #EXTINF:-1 tvg-id="1014506" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729864.jpg" group-title="Süper Lig 2012/2013",Mersin İY 1-1 Galatasaray
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_11_mersin_gs&secure=1
@@ -194,7 +194,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_11_krbk_ibb&secure=1
 #EXTINF:-1 tvg-id="1014508" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729862.jpg" group-title="Süper Lig 2012/2013",Kasımpaşa 1-1 Antalyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_11_kpasa_ant&secure=1
-#EXTINF:-1 tvg-id="1014500" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729870.jpg" group-title="Süper Lig 2012/2013",Sivasspor 1-0 Eskişehirspor
+#EXTINF:-1 tvg-id="1014500" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11729870.jpg" group-title="Süper Lig 2012/2013",Ekenler Beton Sivasspor 1-0 Eskişehirspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_11_sivas_eskisehir&secure=1
 #EXTINF:-1 tvg-id="1014502" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11729868.jpg" group-title="Süper Lig 2012/2013",Beşiktaş 3-3 Bursaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20122013_11_bjk_bur&secure=1
