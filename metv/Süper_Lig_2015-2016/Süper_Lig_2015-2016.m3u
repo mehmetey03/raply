@@ -8,7 +8,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_1_miy_bjk&secure=1
 #EXTINF:-1 tvg-id="1013871" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111117450_1.jpg" group-title="Süper Lig 2015/2016",Ankaraspor 1-1 Metro Holding Kayserispor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_1_osm_kay_16agu&secure=1
-#EXTINF:-1 tvg-id="27652" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111117448.jpg" group-title="Süper Lig 2015/2016",Konyaspor 1-1 Akhisarspor
+#EXTINF:-1 tvg-id="27652" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111117448.jpg" group-title="Süper Lig 2015/2016",Tümosan Konyaspor 1-1 Akhisarspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_1_kon_ak_16agu&secure=1
 #EXTINF:-1 tvg-id="26959" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111117442.jpg" group-title="Süper Lig 2015/2016",Ekenler Beton Sivasspor 2-2 Galatasaray
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_1_svs_gs&secure=1
@@ -496,7 +496,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_28_miy_gb_10nisan&secure=1
 #EXTINF:-1 tvg-id="34110" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111117687.jpg" group-title="Süper Lig 2015/2016",Metro Holding Kayserispor 0-0 Antalyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_28_kay_ant_10nisan&secure=1
-#EXTINF:-1 tvg-id="41171" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111117689.jpg" group-title="Süper Lig 2015/2016",Konyaspor 2-1 Fenerbahçe
+#EXTINF:-1 tvg-id="41171" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111117689.jpg" group-title="Süper Lig 2015/2016",Tümosan Konyaspor 2-1 Fenerbahçe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_28_kon_fb_9nisan&secure=1
 #EXTINF:-1 tvg-id="24195" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111117693.jpg" group-title="Süper Lig 2015/2016",Galatasaray 1-1 Çaykur Rizespor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20152016_28_gs_crize_9nisan&secure=1

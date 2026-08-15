@@ -282,7 +282,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20192020_18_bas_mal_18ocak&secure=1
 #EXTINF:-1 tvg-id="1029208" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111392419.jpg" group-title="Süper Lig 2019/2020",Corendon Alanyaspor 5-1 Metro Holding Kayserispor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20192020_18_ala_kay_18ocak&secure=1
-#EXTINF:-1 tvg-id="1029209" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111392420.jpg" group-title="Süper Lig 2019/2020",MKE Ankaragücü 0-1 Konyaspor
+#EXTINF:-1 tvg-id="1029209" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111392420.jpg" group-title="Süper Lig 2019/2020",MKE Ankaragücü 0-1 Tümosan Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20192020_18_ank_kon_17ocak&secure=1
 #EXTINF:-1 tvg-id="1029225" tvg-logo="https://media01.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2019/2020",Yeni Malatyaspor 1-3 Trabzonspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20192020_19_mal_ts_11mart_ip&secure=1
@@ -418,7 +418,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20192020_26_ts_bas_kjli_15mart_ip&secure=1
 #EXTINF:-1 tvg-id="1029286" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111392491.jpg" group-title="Süper Lig 2019/2020",Metro Holding Kayserispor 2-1 Yeni Malatyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20192020_26_kay_mal_kjli_15mart_ip&secure=1
-#EXTINF:-1 tvg-id="1029287" tvg-logo="https://media03.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2019/2020",Konyaspor 1-0 Fenerbahçe
+#EXTINF:-1 tvg-id="1029287" tvg-logo="https://media03.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2019/2020",Tümosan Konyaspor 1-0 Fenerbahçe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20192020_26_kon_fb_kjli_14mart_ip&secure=1
 #EXTINF:-1 tvg-id="1029280" tvg-logo="https://media02.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2019/2020",Corendon Alanyaspor 1-0 Gaziantep FK
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20192020_26_ala_gazi_kjli_14mart_ip&secure=1
