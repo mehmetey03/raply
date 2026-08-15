@@ -4,7 +4,7 @@
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20172018_1_gs_kay_14agu&secure=1
 #EXTINF:-1 tvg-id="38595" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111261646.jpg" group-title="Süper Lig 2017/2018",Beşiktaş 2-0 Antalyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20172018_1_bjk_ant_13agu&secure=1
-#EXTINF:-1 tvg-id="24172" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111261651.jpg" group-title="Süper Lig 2017/2018",Trabzonspor 2-1 Konyaspor
+#EXTINF:-1 tvg-id="24172" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111261651.jpg" group-title="Süper Lig 2017/2018",Trabzonspor 2-1 Tümosan Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20172018_1_ts_kon_13agu&secure=1
 #EXTINF:-1 tvg-id="38296" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111261652.jpg" group-title="Süper Lig 2017/2018",Göztepe 2-2 Fenerbahçe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20172018_1_goz_fb&secure=1
@@ -368,7 +368,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20172018_24_fb_ak_4mart&secure=1
 #EXTINF:-1 tvg-id="42125" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111261853.jpg" group-title="Süper Lig 2017/2018",Antalyaspor 1-4 Ekenler Beton Sivasspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20172018_24_ant_svs_4mart&secure=1
-#EXTINF:-1 tvg-id="39397" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111261854.jpg" group-title="Süper Lig 2017/2018",Konyaspor 0-1 Yeni Malatyaspor
+#EXTINF:-1 tvg-id="39397" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111261854.jpg" group-title="Süper Lig 2017/2018",Tümosan Konyaspor 0-1 Yeni Malatyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20172018_24_kon_mal_4mart&secure=1
 #EXTINF:-1 tvg-id="48881" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111261856.jpg" group-title="Süper Lig 2017/2018",Gençlerbirliği 0-1 Corendon Alanyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20172018_24_gb_ala_4mart&secure=1
@@ -428,7 +428,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20172018_28_ala_ak_8nisan&secure=1
 #EXTINF:-1 tvg-id="19744" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111261893.jpg" group-title="Süper Lig 2017/2018",Bursaspor 0-1 Kasımpaşa
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20172018_28_bur_pasa_8nisan&secure=1
-#EXTINF:-1 tvg-id="18911" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111261888.jpg" group-title="Süper Lig 2017/2018",Konyaspor 5-0 Ekenler Beton Sivasspor
+#EXTINF:-1 tvg-id="18911" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111261888.jpg" group-title="Süper Lig 2017/2018",Tümosan Konyaspor 5-0 Ekenler Beton Sivasspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20172018_28_kon_svs_8nisan&secure=1
 #EXTINF:-1 tvg-id="4835" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111261889.jpg" group-title="Süper Lig 2017/2018",Beşiktaş 5-1 Göztepe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20172018_28_bjk_goz_7nisan&secure=1
