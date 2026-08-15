@@ -342,7 +342,7 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_19_kay_bur_26ocak&secure=1
 #EXTINF:-1 tvg-id="6542" tvg-logo="https://media03.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2018/2019",Beşiktaş 1-1 Erzurumspor FK
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_19_bjk_erz_25ocak&secure=1
-#EXTINF:-1 tvg-id="6614" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326061.jpg" group-title="Süper Lig 2018/2019",Bursaspor 0-0 Konyaspor
+#EXTINF:-1 tvg-id="6614" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326061.jpg" group-title="Süper Lig 2018/2019",Bursaspor 0-0 Tümosan Konyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_20_bur_kon_4subat&secure=1
 #EXTINF:-1 tvg-id="6602" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326055.jpg" group-title="Süper Lig 2018/2019",Antalyaspor 2-6 Beşiktaş
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20182019_20_ant_bjk_3subat&secure=1
