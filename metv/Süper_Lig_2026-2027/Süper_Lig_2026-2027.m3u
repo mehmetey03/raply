@@ -162,6 +162,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_9_eyup_kas_9h_24ekim_ip&secure=1
 #EXTINF:-1 tvg-id="1515813" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1515813.jpg" group-title="Süper Lig 2026/2027",Corendon Alanyaspor 1-2 Kocaelispor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_9_ala_koca_9h_23ekim_ip&secure=1
+#EXTINF:-1 tvg-id="1515828" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1515828.jpg" group-title="Süper Lig 2026/2027",Gençlerbirliği 5-0 Corendon Alanyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_10_genc_ala_2kas_ip&secure=1
 #EXTINF:-1 tvg-id="1515830" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1515830.jpg" group-title="Süper Lig 2026/2027",Kasımpaşa 2-2 Beşiktaş
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_10_kas_bjk_1kas_ip&secure=1
 #EXTINF:-1 tvg-id="1515829" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1515829.jpg" group-title="Süper Lig 2026/2027",İstanbul Başakşehir 5-2 Samsunspor
