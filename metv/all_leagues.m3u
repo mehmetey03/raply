@@ -9828,5 +9828,11 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_11_eyup_koca_7kas_ip&secure=1
 #EXTINF:-1 tvg-id="1515839" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1515839.jpg" group-title="Süper Lig 2026/2027",Gaziantep FK 0-2 Kasımpaşa
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_11_gazi_kas_6kas_ip&secure=1
+#EXTINF:-1 tvg-id="1515849" tvg-logo="https://media01.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Süper Lig 2026/2027",Kocaelispor 2-2 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_12_koca_fb_21kas_ip&secure=1
+#EXTINF:-1 tvg-id="1515843" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1515843.jpg" group-title="Süper Lig 2026/2027",Amed Sportif Faaliyetler 0-2 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_12_amed_rize_21kas_ip&secure=1
+#EXTINF:-1 tvg-id="1515845" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1515845.png" group-title="Süper Lig 2026/2027",Galatasaray 2-1 Samsunspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_12_gs_sam_21kas_ip&secure=1
 #EXTINF:-1 tvg-id="1515846" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1515846.jpg" group-title="Süper Lig 2026/2027",Gençlerbirliği 1-0 Gaziantep FK
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_12_genc_gazi_12h_21kas_ip&secure=1
